@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreTemp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>
+    <Name>עברית</Name>
+    <Culture>he-IL</Culture>
+    <RightToLeft>true</RightToLeft>
+  </Language>
+  <Menus>
+    <Menu>
+      <Id>109</Id>
+      <IdName>IDC_CoreTempMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;File</OriginalText>
+          <Caption>&amp;קובץ</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Options</OriginalText>
+          <Caption>&amp;אפשרויות</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Tools</OriginalText>
+          <Caption>&amp;כלים</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>G15 &amp;applet</OriginalText>
+          <Caption>&amp;יישומון G15</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Help</OriginalText>
+          <Caption>&amp;עזרה</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32774</Id>
+          <IdName>ID_FILE_REFRESH</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;רענן&#9;&#9;(F5)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32773</Id>
+          <IdName>IDM_SHOWHIDE</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;הצג/הסתר</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>105</Id>
+          <IdName>IDM_EXIT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>י&amp;ציאה</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32772</Id>
+          <IdName>IDM_SETTINGS</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;הגדרות</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Theme</OriginalText>
+          <Caption>&amp;ערכת נושא</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32829</Id>
+          <IdName>ID_THEME_SYSTEMDEFAULT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>ב&amp;רירת מחדל</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32830</Id>
+          <IdName>ID_THEME_DARK</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;כהה</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32831</Id>
+          <IdName>ID_THEME_LIGHT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;בהירה</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32802</Id>
+          <IdName>IDM_ADJUSTOFFSETS</IdName>
+          <OriginalText></OriginalText>
+          <Caption>הת&amp;אם קיזוזים</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32800</Id>
+          <IdName>IDM_OVERHEATPROTECTION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>הגנה מפני &amp;חימום יתר</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32779</Id>
+          <IdName>IDM_AOT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;תמיד עליון</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32797</Id>
+          <IdName>IDM_MINIMODE</IdName>
+          <OriginalText></OriginalText>
+          <Caption>החלף ל&amp;מיני-מוד</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32824</Id>
+          <IdName>IDM_CHECK_DA</IdName>
+          <OriginalText></OriginalText>
+          <Caption>חפש עדכונים &amp;למנהלי התקנים&#9;(F11)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32825</Id>
+          <IdName>IDM_CHECK_BA</IdName>
+          <OriginalText></OriginalText>
+          <Caption>חפש עדכו&amp;נים ל-BIOS&#9;(F12)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32785</Id>
+          <IdName>IDM_LOGGING</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;הפעל יומן&#9;(F4)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32793</Id>
+          <IdName>IDM_RESETHILO</IdName>
+          <OriginalText></OriginalText>
+          <Caption>אפס ערכי &amp;מקס./מינ.&#9;(F6) </Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32813</Id>
+          <IdName>ID_TOOLS_PLUGINMANAGER</IdName>
+          <OriginalText></OriginalText>
+          <Caption>מנהל &amp;רכיבים&#9;&#9;(F8)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32804</Id>
+          <IdName>IDM_SYSTEMINFORMATION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>מידע מ&amp;ערכת&#9;&#9;(F3)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32789</Id>
+          <IdName>IDM_RUNG15APP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;אפשר יישומון G15</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32790</Id>
+          <IdName>IDM_KILLG15APP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;כבה יישומון G15</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32780</Id>
+          <IdName>ID_OPTIONS_REGISTERDUMP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;פלט אוגרים&#9;&#9;(F7)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32781</Id>
+          <IdName>ID_OPTIONS_SCREENSHOT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;צילום מסך&#9;&#9;(F9)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>104</Id>
+          <IdName>IDM_ABOUT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;אודות... </Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32817</Id>
+          <IdName>ID_HELP_CHECKFORUPDATES</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;חפש עדכונים זמינים</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32826</Id>
+          <IdName>ID_HELP_MAKEADONATION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;לבצע תרומה</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+    <Menu>
+      <Id>170</Id>
+      <IdName>IDR_Win7TaskbarColorMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Color</OriginalText>
+          <Caption>צ&amp;בע</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32808</Id>
+          <IdName>ID_COLOR_GREEN</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;ירוק</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32809</Id>
+          <IdName>ID_COLOR_YELLOW</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;צהוב</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32810</Id>
+          <IdName>ID_COLOR_RED</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;אדום</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+    <Menu>
+      <Id>182</Id>
+      <IdName>IDR_SystrayColorMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>Color</OriginalText>
+          <Caption>צבע</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32811</Id>
+          <IdName>ID_COLOR_TRANSPARENT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;שקוף</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32812</Id>
+          <IdName>ID_COLOR_CUSTOMCOLOR</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;התאמה אישית</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+  </Menus>
+  <Dialogs>
+    <Dialog>
+      <Id>103</Id>
+      <IdName>IDD_ABOUTBOX</IdName>
+      <Caption>אודות</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1002</Id>
+          <IdName>IDC_APP_TITLE</IdName>
+          <Text>IDS_APP_TITLE_VER</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1120</Id>
+          <IdName>IDC_ACopyright</IdName>
+          <Text>כל הזכויות שמורות Alcpu (C) 2006 - 2026.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>אישור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1121</Id>
+          <IdName>IDC_AAuthor</IdName>
+          <Text>פותח על ידי: ארתור ליברמן</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1000</Id>
+          <IdName>IDC_EMAIL</IdName>
+          <Text>צור קשר!</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1001</Id>
+          <IdName>IDC_DONATE</IdName>
+          <Text>לבצע תרומה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1003</Id>
+          <IdName>IDC_HOMEPAGE</IdName>
+          <Text>בקר בדף הבית</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1122</Id>
+          <IdName>IDC_AThanksRay</IdName>
+          <Text>תודה מיוחדת לריי אדאמס על העזרה בהוספת האפשרות להצגת הטמפרטורה באזור ההודעות.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1123</Id>
+          <IdName>IDC_AThanksMichael</IdName>
+          <Text>תודה מיוחדת למייקל צ'רנס עבור הסמלון של Core Temp.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1004</Id>
+          <IdName>IDC_FORUM</IdName>
+          <Text>פורום תמיכה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1005</Id>
+          <IdName>IDC_SCYTHE</IdName>
+          <Text>מומלץ באופן רשמי ע"י Scythe.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1007</Id>
+          <IdName>IDC_FORUM2</IdName>
+          <Text>שאלות נפוצות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1006</Id>
+          <IdName>IDC_GADGET</IdName>
+          <Text>בדוק את Core Temp Gadget עבור חלונות ויסטה ו-7</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1008</Id>
+          <IdName>IDC_TranslationCredits</IdName>
+          <Text>תורגם ע"י יואב פלטי.</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>158</Id>
+      <IdName>IDD_OVERHEAT</IdName>
+      <Caption>הגדרות הגנה מחימום יתר</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>אישור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>ביטול</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1006</Id>
+          <IdName>IDC_ENABLE</IdName>
+          <Text>הפעל הגנה מחימום יתר</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1007</Id>
+          <IdName>GRP_SETTINGS</IdName>
+          <Text>הגדרות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1022</Id>
+          <IdName>IDC_ACTAT3</IdName>
+          <Text>אוטומטי</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1020</Id>
+          <IdName>IDC_NOTIFYHOT</IdName>
+          <Text>אזהר רק כאשר מגיעים לטמפרטורה קריטית</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1023</Id>
+          <IdName>IDC_ACTAT1</IdName>
+          <Text>הפעל בטמפרטורה ספציפית</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1025</Id>
+          <IdName>IDC_Celcius</IdName>
+          <Text>°</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1024</Id>
+          <IdName>IDC_ACTAT2</IdName>
+          <Text>הפעל 5 מעלות מתחת ל-TjMax</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1008</Id>
+          <IdName>IDC_BALLOON</IdName>
+          <Text>הודעת בלון</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1009</Id>
+          <IdName>IDC_TBFLASH</IdName>
+          <Text>הבזק סמלון של Core Temp בשורת המשימות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1126</Id>
+          <IdName>IDC_OPExecute</IdName>
+          <Text>הפעל תוכנית:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1012</Id>
+          <IdName>IDC_BROWSE</IdName>
+          <Text>עיין</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_OHPExecOnce</IdName>
+          <Text>הרץ פעם אחת</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1127</Id>
+          <IdName>IDC_OPShutdownOptions</IdName>
+          <Text>אפשרויות כיבוי:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1010</Id>
+          <IdName>IDC_ENABLESHUTDOWN</IdName>
+          <Text>אפשר</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1015</Id>
+          <IdName>IDC_RADIO_SD3</IdName>
+          <Text>הכנס למצב שינה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1016</Id>
+          <IdName>IDC_RADIO_SD4</IdName>
+          <Text>היברנציה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1017</Id>
+          <IdName>IDC_RADIO_SD5</IdName>
+          <Text>כיבוי</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1027</Id>
+          <IdName>IDC_LBLSHUTDOWN</IdName>
+          <Text>כבה אחרי</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1026</Id>
+          <IdName>IDC_LBLSECS</IdName>
+          <Text>שניות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>ברירת מחדל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1125</Id>
+          <IdName>IDC_OPNotification</IdName>
+          <Text>הודעות:</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>159</Id>
+      <IdName>IDD_USREOFFSET</IdName>
+      <Caption>איזון טמפרטורה</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>אישור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>ביטול</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1132</Id>
+          <IdName>IDC_TOCpuSelect</IdName>
+          <Text>בחר מעבד</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_APPLYALL</IdName>
+          <Text>החל לכל הליבות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1069</Id>
+          <IdName>IDC_RESET</IdName>
+          <Text>אפס</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1036</Id>
+          <IdName>IDC_CORE1</IdName>
+          <Text>ליבה 0</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1037</Id>
+          <IdName>IDC_CORE2</IdName>
+          <Text>ליבה 1</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1038</Id>
+          <IdName>IDC_CORE3</IdName>
+          <Text>ליבה 2</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1039</Id>
+          <IdName>IDC_CORE4</IdName>
+          <Text>ליבה 3</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1040</Id>
+          <IdName>IDC_CORE5</IdName>
+          <Text>ליבה 4</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1041</Id>
+          <IdName>IDC_CORE6</IdName>
+          <Text>ליבה 5</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1042</Id>
+          <IdName>IDC_CORE7</IdName>
+          <Text>ליבה 6</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1043</Id>
+          <IdName>IDC_CORE8</IdName>
+          <Text>ליבה 7</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1044</Id>
+          <IdName>IDC_CORE9</IdName>
+          <Text>ליבה 8</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1045</Id>
+          <IdName>IDC_CORE10</IdName>
+          <Text>ליבה 9</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1047</Id>
+          <IdName>IDC_CORE12</IdName>
+          <Text>ליבה 11</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1046</Id>
+          <IdName>IDC_CORE11</IdName>
+          <Text>ליבה 10</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1048</Id>
+          <IdName>IDC_CORE13</IdName>
+          <Text>ליבה 12</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1049</Id>
+          <IdName>IDC_CORE14</IdName>
+          <Text>ליבה 13</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1050</Id>
+          <IdName>IDC_CORE15</IdName>
+          <Text>ליבה 14</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1051</Id>
+          <IdName>IDC_CORE16</IdName>
+          <Text>ליבה 15</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>166</Id>
+      <IdName>IDD_SYSTEMINFO</IdName>
+      <Caption>Core Temp מידע מערכת של</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>סגור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1055</Id>
+          <IdName>IDC_TREESYSINFO</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>ID_CANCEL</IdName>
+          <Text>ביטול</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>4</Id>
+          <IdName>ID_REFRESH</IdName>
+          <Text>רענן</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>169</Id>
+      <IdName>IDD_Win7Taskbar</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>אישור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>ביטול</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>ברירת מחדל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1058</Id>
+          <IdName>IDC_W7TBEnable</IdName>
+          <Text>אפשר תכונות שורת המשימות של חלונות 7</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1064</Id>
+          <IdName>IDC_W7TBFrame</IdName>
+          <Text>הגדרות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1059</Id>
+          <IdName>IDC_W7TBTemperature</IdName>
+          <Text>טמפרטורה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1060</Id>
+          <IdName>IDC_W7TBFrequency</IdName>
+          <Text>תדר</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1061</Id>
+          <IdName>IDC_W7TBLoad</IdName>
+          <Text>עומס על המעבד</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1063</Id>
+          <IdName>IDC_W7TBMinimize</IdName>
+          <Text>אל תסתיר את כפתור שורת המשימות כאשר ממוזער</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_W7TBColor</IdName>
+          <Text>צבע</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1062</Id>
+          <IdName>IDC_W7TBCycle</IdName>
+          <Text>מחזורים בין המצבים</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1067</Id>
+          <IdName>IDC_W7TBSPINCycleDelay</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1133</Id>
+          <IdName>IDC_W7TBSecondsLabel</IdName>
+          <Text>שניות</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>176</Id>
+      <IdName>IDD_SETTINGS</IdName>
+      <Caption>הגדרות</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>אישור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>ביטול</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>אפס הגדרות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>6</Id>
+          <IdName>IDAPPLY</IdName>
+          <Text>החל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1141</Id>
+          <IdName>IDC_TAB1</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>4</Id>
+          <IdName>IDCONFIRM</IdName>
+          <Text>אשר הגדרות</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>177</Id>
+      <IdName>IDD_SETTINGS_GENERAL</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1097</Id>
+          <IdName>IDC_SGSepSettings</IdName>
+          <Text> הגדרות </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1134</Id>
+          <IdName>IDC_SGPollingLabel</IdName>
+          <Text>מרווח דגימת טמפרטורה:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1073</Id>
+          <IdName>IDC_SGSpinPolling</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1137</Id>
+          <IdName>IDC_SGMillisecondsLabel</IdName>
+          <Text>מילישניות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1135</Id>
+          <IdName>IDC_SGLoggingLabel</IdName>
+          <Text>מרווח תיעוד טמפרטורה:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1075</Id>
+          <IdName>IDC_SGSpinLogging</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1138</Id>
+          <IdName>IDC_SGSecondsLabel</IdName>
+          <Text>שניות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1139</Id>
+          <IdName>IDC_SGLogLocation</IdName>
+          <Text>מיקום קובץ היומן:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1136</Id>
+          <IdName>IDC_SGLanguageLabel</IdName>
+          <Text>שפה:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1080</Id>
+          <IdName>IDC_SGPlugins</IdName>
+          <Text>אפשר רכיבים</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1081</Id>
+          <IdName>IDC_SGStartLogging</IdName>
+          <Text>אפשר תיעוד בעת ההפעלה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1082</Id>
+          <IdName>IDC_SGInstances</IdName>
+          <Text>Core Temp אפשר מספר מופעי</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1079</Id>
+          <IdName>IDC_SGStartWindows</IdName>
+          <Text>הפעל את Core Temp יחד עם חלונות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>ברירת מחדל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1142</Id>
+          <IdName>IDC_SGCheckUpdates</IdName>
+          <Text>חפש עדכונים בעת ההפעלה</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>178</Id>
+      <IdName>IDD_SETTINGS_DISPLAY</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>ברירת מחדל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1076</Id>
+          <IdName>IDC_SDCheckFahrenheit</IdName>
+          <Text>הצג טמפרטורות ביחידות פרנהייט</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1077</Id>
+          <IdName>IDC_SDCheckMinimized</IdName>
+          <Text>הפעל את Core Temp במצב ממוזער</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1078</Id>
+          <IdName>IDC_SDCheckTray</IdName>
+          <Text>מזער את Core Temp לאזור ההודעות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1093</Id>
+          <IdName>IDC_SDGroupColors</IdName>
+          <Text>הגדר צבעי שדות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1094</Id>
+          <IdName>IDC_SDSepSettings</IdName>
+          <Text> הגדרות </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1128</Id>
+          <IdName>IDC_DSTextLabel</IdName>
+          <Text>טקסט</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1129</Id>
+          <IdName>IDC_DSHotLabel</IdName>
+          <Text>חם</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1130</Id>
+          <IdName>IDC_DSCriticalLabel</IdName>
+          <Text>קריטי</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1098</Id>
+          <IdName>IDC_SDStaticPreview1</IdName>
+          <Text> תצוגה מקדימה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1099</Id>
+          <IdName>IDC_SDStaticPreview2</IdName>
+          <Text> תצוגה מקדימה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1100</Id>
+          <IdName>IDC_SDStaticPreview3</IdName>
+          <Text> תצוגה מקדימה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_SDBtnChange1</IdName>
+          <Text>שנה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1066</Id>
+          <IdName>IDC_SDBtnReset1</IdName>
+          <Text>אפס</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1067</Id>
+          <IdName>IDC_SDBtnChange2</IdName>
+          <Text>שנה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_SDBtnReset2</IdName>
+          <Text>אפס</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1069</Id>
+          <IdName>IDC_SDBtnChange3</IdName>
+          <Text>שנה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1070</Id>
+          <IdName>IDC_SDBtnReset3</IdName>
+          <Text>אפס</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1131</Id>
+          <IdName>IDC_SDLabels</IdName>
+          <Text>תוויות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1101</Id>
+          <IdName>IDC_SDStaticPreview4</IdName>
+          <Text> תצוגה מקדימה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1071</Id>
+          <IdName>IDC_SDBtnChange4</IdName>
+          <Text>שנה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1072</Id>
+          <IdName>IDC_SDBtnReset4</IdName>
+          <Text>אפס</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1143</Id>
+          <IdName>IDC_SDHideTaskbarButton</IdName>
+          <Text>הסתר את הלחצן בשורת המשימות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1132</Id>
+          <IdName>IDC_SDZoomLabel</IdName>
+          <Text>זום</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1151</Id>
+          <IdName>IDC_SDRestartToApplyLabel</IdName>
+          <Text>* הפעל מחדש כדי להחיל</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>179</Id>
+      <IdName>IDD_SETTINGS_G15</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1089</Id>
+          <IdName>IDC_SGCheckShowTime</IdName>
+          <Text>הצג שעה ותאריך על מסך ה-LCD</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1085</Id>
+          <IdName>IDC_SGRadio12Hour</IdName>
+          <Text>תצוגת 12 שעות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1086</Id>
+          <IdName>IDC_SGRadio24Hour</IdName>
+          <Text>תצוגת 24 שעות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>ברירת מחדל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1087</Id>
+          <IdName>IDC_SGRadioUserFont</IdName>
+          <Text>התאמה אישית</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1088</Id>
+          <IdName>IDC_SGRadioBuiltInFont</IdName>
+          <Text>השתמש בגופן המובנה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>5</Id>
+          <IdName>IDC_SGBtnFont</IdName>
+          <Text>בחר גופן</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1092</Id>
+          <IdName>IDC_SGStaticPreview</IdName>
+          <Text> תצוגה מקדימה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1095</Id>
+          <IdName>IDC_SGSepTimes</IdName>
+          <Text> תצוגת זמן</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1096</Id>
+          <IdName>IDC_SGSepFonts</IdName>
+          <Text> הגדרות טקסט</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>-1</Id>
+          <IdName>IDC_STATIC</IdName>
+          <Text>*</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1139</Id>
+          <IdName>IDC_SGRestarted</IdName>
+          <Text>השינויים יכנסו לתוקף לאחר הפעלה מחדש של Core Temp</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>180</Id>
+      <IdName>IDD_SETTINGS_ADVANCED</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>ברירת מחדל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1091</Id>
+          <IdName>IDC_SACheckTjMax</IdName>
+          <Text>הצג הפרש מ-TjMax בשדות הטמפרטורה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1092</Id>
+          <IdName>IDC_SACheckOnFlyFsb</IdName>
+          <Text>גלה FSB תוך כדי עבודה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1096</Id>
+          <IdName>IDC_SASepSettings</IdName>
+          <Text> הגדרות </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1093</Id>
+          <IdName>IDC_SACheckSnmp</IdName>
+          <Text>אפשר זיכרון משותף גלובלי (SNMP)</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>181</Id>
+      <IdName>IDD_SETTINGS_SYSTRAY</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>ברירת מחדל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1099</Id>
+          <IdName>IDC_SSSepSettings</IdName>
+          <Text> סמלוני אזור ההודעות</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1100</Id>
+          <IdName>IDC_SSRdoAll</IdName>
+          <Text>כל חיישני הטמפרטורה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1101</Id>
+          <IdName>IDC_SSRdoHighestCpu</IdName>
+          <Text>הטמפרטורה הגבוהה ביותר עבור מעבד</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1102</Id>
+          <IdName>IDC_SSRdoHighest</IdName>
+          <Text>הטמפרטורה הגבוהה ביותר</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1103</Id>
+          <IdName>IDC_SSRdoIcon</IdName>
+          <Text>אייקון בלבד</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1104</Id>
+          <IdName>IDC_SSCheckSpeed</IdName>
+          <Text>תדר מעבד</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1107</Id>
+          <IdName>IDC_SSCheckSpeed2</IdName>
+          <Text>תדר מעבד אפקטיבי</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1105</Id>
+          <IdName>IDC_SSCheckLoad</IdName>
+          <Text>עומס על המעבד</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1108</Id>
+          <IdName>IDC_SSStaticPreview</IdName>
+          <Text>תצוגה מקדימה </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_SSBtnTextColor</IdName>
+          <Text>טקסט</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1110</Id>
+          <IdName>IDC_SSSepColors</IdName>
+          <Text> צבעים </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1112</Id>
+          <IdName>IDC_SSSepSensors</IdName>
+          <Text> חיישנים </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1066</Id>
+          <IdName>IDC_SSBtnFont</IdName>
+          <Text>בחר גופן</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1113</Id>
+          <IdName>IDC_SSBtnBackgroundColor</IdName>
+          <Text>רקע</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1144</Id>
+          <IdName>IDC_SSCheckRamUse</IdName>
+          <Text>ניצול זיכרון RAM</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1106</Id>
+          <IdName>IDC_SSCheckPower</IdName>
+          <Text>צריכת אנרגיה</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1114</Id>
+          <IdName>IDC_SSCheckBattery</IdName>
+          <Text>מצב הסוללה</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>183</Id>
+      <IdName>IDD_PLUGINMANAGER</IdName>
+      <Caption>מנהל רכיבים</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>סגור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1114</Id>
+          <IdName>IDC_PMList</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1115</Id>
+          <IdName>IDC_PMStart</IdName>
+          <Text>הפעל</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1116</Id>
+          <IdName>IDC_PMStop</IdName>
+          <Text>עצור</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1117</Id>
+          <IdName>IDC_PMConfigure</IdName>
+          <Text>הגדר</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1118</Id>
+          <IdName>IDC_PMRemove</IdName>
+          <Text>הסר</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1119</Id>
+          <IdName>IDC_PMEnable</IdName>
+          <Text>אפשר רכיבים</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1120</Id>
+          <IdName>IDC_PMRefresh</IdName>
+          <Text>רענן</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+  </Dialogs>
+  <Strings>
+    <String>
+      <Id>109</Id>
+      <IdName>IDC_CoreTempMenu</IdName>
+      <Value>CORETEMP</Value>
+    </String>
+    <String>
+      <Id>103</Id>
+      <IdName>IDS_APP_TITLE</IdName>
+      <Value>Core Temp 1.0</Value>
+    </String>
+    <String>
+      <Id>224</Id>
+      <IdName>IDS_APP_TITLE_SUFFIX</IdName>
+      <Value> RC5</Value>
+    </String>
+    <String>
+      <Id>104</Id>
+      <IdName>IDS_APP_TITLE_VER</IdName>
+      <Value>Core Temp גרסה</Value>
+    </String>
+    <String>
+      <Id>235</Id>
+      <IdName>IDS_CheckAmdDriverUpdate</IdName>
+      <Value>חפש עדכונים למנהלי התקנים של AMD</Value>
+    </String>
+    <String>
+      <Id>247</Id>
+      <IdName>IDS_CheckBiosUpdate</IdName>
+      <Value>חפש עדכונים ל-BIOS</Value>
+    </String>
+    <String>
+      <Id>233</Id>
+      <IdName>IDS_CheckDriverUpdate</IdName>
+      <Value>חפש עדכונים למנהלי התקנים</Value>
+    </String>
+    <String>
+      <Id>234</Id>
+      <IdName>IDS_CheckIntelDriverUpdate</IdName>
+      <Value>חפש עדכונים למנהלי התקנים של אינטל</Value>
+    </String>
+    <String>
+      <Id>168</Id>
+      <IdName>IDS_CoreTempMiscRegistryEntryNotFound</IdName>
+      <Value>ערך Registry לא נמצא.&#10;&#13;לא יהיה ניתן להעלות את Core Temp עם עליית מערכת ההפעלה.</Value>
+    </String>
+    <String>
+      <Id>167</Id>
+      <IdName>IDS_CoreTempMiscScheduledTask</IdName>
+      <Value>לא ניתן ליצור משימה מתוזמנת על מנת להתחיל את Core Temp עם עליית מערכת ההפעלה.&#10;&#13;ההגדרות לא ישמרו.</Value>
+    </String>
+    <String>
+      <Id>244</Id>
+      <IdName>IDS_FrequencySelectorHighest</IdName>
+      <Value>הגבוה ביותר</Value>
+    </String>
+    <String>
+      <Id>245</Id>
+      <IdName>IDS_FrequencySelectorTooltip</IdName>
+      <Value>לחץ לחיצה ימנית כדי לבחור תדר של ליבה מסוימת</Value>
+    </String>
+    <String>
+      <Id>162</Id>
+      <IdName>IDS_InitializeMessageDataInitFailed</IdName>
+      <Value>Core Temp לא הצליחה לטעון מידע פנימי.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>161</Id>
+      <IdName>IDS_InitializeMessageDriverFailed</IdName>
+      <Value>לא ניתן לטעון דרייבר.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>164</Id>
+      <IdName>IDS_InitializeMessageDriverOutdated</IdName>
+      <Value>הדרייבר הנוכחי אינו מעודכן.&#10;&#13;וודא שאינך מריץ תוכנה אחרת מית ALCPU ואתחל את Core Temp.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>157</Id>
+      <IdName>IDS_InitializeMessageDuplicateInstance</IdName>
+      <Value>מופע אחר של Core Temp כבר פועל!</Value>
+    </String>
+    <String>
+      <Id>165</Id>
+      <IdName>IDS_InitializeMessageInternalError</IdName>
+      <Value>חלה שגיאה פנימית ב-Core Temp.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>166</Id>
+      <IdName>IDS_InitializeMessageOsNotSupported</IdName>
+      <Value>תוכנה זו דורשת מערכת הפעלה מסוג Windows 2000/XP/2003/Vista/7.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>163</Id>
+      <IdName>IDS_InitializeMessageProcessorNotFound</IdName>
+      <Value>Core Temp לא מצאה מעבדים נתמכים.&#10;&#13;התוכנה תצא כעת.&#13;&#10;&#13;&#10;אם הינך בטוח שה-CPU שלך מופיע ברשימת המעבדים הנתמכים, האם תרצה ליצור קובץ דיווח שגיאות על מנת לעזור למפתח התוכנה לתקן את התקלה?</Value>
+    </String>
+    <String>
+      <Id>159</Id>
+      <IdName>IDS_InitializeMessageUnsupportedCpuAmd</IdName>
+      <Value>מעבד ה-AMD הזה אינו נתמך.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>160</Id>
+      <IdName>IDS_InitializeMessageUnsupportedCpuIntel</IdName>
+      <Value>מעבד האינטל הזה אינו נתמך.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>158</Id>
+      <IdName>IDS_InitializeMessageUnsupportedVendor</IdName>
+      <Value>יצרן המעבד אינו מוכר.&#10;&#13;התוכנה תצא כעת.</Value>
+    </String>
+    <String>
+      <Id>124</Id>
+      <IdName>IDS_MainGuiCoreLoad</IdName>
+      <Value>עומס</Value>
+    </String>
+    <String>
+      <Id>129</Id>
+      <IdName>IDS_MainGuiCoreNum</IdName>
+      <Value>ליבה #%d:</Value>
+    </String>
+    <String>
+      <Id>105</Id>
+      <IdName>IDS_MainGuiCores</IdName>
+      <Value>ליבה(ות)</Value>
+    </String>
+    <String>
+      <Id>108</Id>
+      <IdName>IDS_MainGuiCpuid</IdName>
+      <Value>CPUID:</Value>
+    </String>
+    <String>
+      <Id>128</Id>
+      <IdName>IDS_MainGuiCpuNum</IdName>
+      <Value>מעבד #%d:</Value>
+    </String>
+    <String>
+      <Id>193</Id>
+      <IdName>IDS_MainGuiDataClockSpeed</IdName>
+      <Value>תדר</Value>
+    </String>
+    <String>
+      <Id>194</Id>
+      <IdName>IDS_MainGuiDataLoad</IdName>
+      <Value>עומס</Value>
+    </String>
+    <String>
+      <Id>196</Id>
+      <IdName>IDS_MainGuiDataShortTemperature</IdName>
+      <Value>'טמפ</Value>
+    </String>
+    <String>
+      <Id>195</Id>
+      <IdName>IDS_MainGuiDataToTjMax</IdName>
+      <Value>עד TjMax</Value>
+    </String>
+    <String>
+      <Id>197</Id>
+      <IdName>IDS_MainGuiDataWatts</IdName>
+      <Value>וואט</Value>
+    </String>
+    <String>
+      <Id>126</Id>
+      <IdName>IDS_MainGuiFreq</IdName>
+      <Value>תדר #%d:</Value>
+    </String>
+    <String>
+      <Id>114</Id>
+      <IdName>IDS_MainGuiFrequency</IdName>
+      <Value>תדר:</Value>
+    </String>
+    <String>
+      <Id>250</Id>
+      <IdName>IDS_MainGuiEffectiveClock</IdName>
+      <Value>תדר אפקטיבי:</Value>
+    </String>
+    <String>
+      <Id>123</Id>
+      <IdName>IDS_MainGuiHighTemp</IdName>
+      <Value>מקס.</Value>
+    </String>
+    <String>
+      <Id>113</Id>
+      <IdName>IDS_MainGuiLithography</IdName>
+      <Value>ליטוגרפיה:</Value>
+    </String>
+    <String>
+      <Id>122</Id>
+      <IdName>IDS_MainGuiLowTemp</IdName>
+      <Value>מינ.</Value>
+    </String>
+    <String>
+      <Id>249</Id>
+      <IdName>IDS_MainGuiAvgTemp</IdName>
+      <Value>ממו.</Value>
+    </String>
+    <String>
+      <Id>110</Id>
+      <IdName>IDS_MainGuiMaxTdp</IdName>
+      <Value>TDP:</Value>
+    </String>
+    <String>
+      <Id>112</Id>
+      <IdName>IDS_MainGuiModel</IdName>
+      <Value>דגם:</Value>
+    </String>
+    <String>
+      <Id>120</Id>
+      <IdName>IDS_MainGuiModulation</IdName>
+      <Value>אפנון שעון:</Value>
+    </String>
+    <String>
+      <Id>111</Id>
+      <IdName>IDS_MainGuiPlatform</IdName>
+      <Value>פלטפורמה:</Value>
+    </String>
+    <String>
+      <Id>125</Id>
+      <IdName>IDS_MainGuiProcessorNum</IdName>
+      <Value>מעבד #%d</Value>
+    </String>
+    <String>
+      <Id>127</Id>
+      <IdName>IDS_MainGuiProcessorTemps</IdName>
+      <Value>מעבד #%d: קריאות טמפרטורה</Value>
+    </String>
+    <String>
+      <Id>130</Id>
+      <IdName>IDS_MainGuiProcessorTemps2</IdName>
+      <Value>קריאות טמפרטורה</Value>
+    </String>
+    <String>
+      <Id>121</Id>
+      <IdName>IDS_MainGuiProcInfo</IdName>
+      <Value>מידע על המעבד</Value>
+    </String>
+    <String>
+      <Id>231</Id>
+      <IdName>IDS_MainGuiRamUsed</IdName>
+      <Value>ניצול זיכרון RAM</Value>
+    </String>
+    <String>
+      <Id>115</Id>
+      <IdName>IDS_MainGuiRevision</IdName>
+      <Value>רביזיה:</Value>
+    </String>
+    <String>
+      <Id>107</Id>
+      <IdName>IDS_MainGuiSelectCpu</IdName>
+      <Value>בחר מעבד:</Value>
+    </String>
+    <String>
+      <Id>117</Id>
+      <IdName>IDS_MainGuiTCaseMax</IdName>
+      <Value>TCase Max:</Value>
+    </String>
+    <String>
+      <Id>118</Id>
+      <IdName>IDS_MainGuiTdp</IdName>
+      <Value>צריכה:</Value>
+    </String>
+    <String>
+      <Id>106</Id>
+      <IdName>IDS_MainGuiThreads</IdName>
+      <Value>נימ(ים)</Value>
+    </String>
+    <String>
+      <Id>116</Id>
+      <IdName>IDS_MainGuiTjMax</IdName>
+      <Value>Tj. Max:</Value>
+    </String>
+    <String>
+      <Id>212</Id>
+      <IdName>IDS_MainGuiTooltipEstimatedPowerConsumption</IdName>
+      <Value>הערכה גסה של צריכת הספק רגעית</Value>
+    </String>
+    <String>
+      <Id>240</Id>
+      <IdName>IDS_MainGuiTooltipPowerDRAM</IdName>
+      <Value>DRAM</Value>
+    </String>
+    <String>
+      <Id>238</Id>
+      <IdName>IDS_MainGuiTooltipPowerGT</IdName>
+      <Value>GT (ליבה גראפית)</Value>
+    </String>
+    <String>
+      <Id>237</Id>
+      <IdName>IDS_MainGuiTooltipPowerIACores</IdName>
+      <Value>ליבות עיבוד</Value>
+    </String>
+    <String>
+      <Id>236</Id>
+      <IdName>IDS_MainGuiTooltipPowerPackage</IdName>
+      <Value>Package</Value>
+    </String>
+    <String>
+      <Id>239</Id>
+      <IdName>IDS_MainGuiTooltipPowerUncore</IdName>
+      <Value>Uncore (מוערכת)</Value>
+    </String>
+    <String>
+      <Id>119</Id>
+      <IdName>IDS_MainGuiVid</IdName>
+      <Value>VID:</Value>
+    </String>
+    <String>
+      <Id>150</Id>
+      <IdName>IDS_MsgBoxTitleError</IdName>
+      <Value>Core Temp: שגיאה</Value>
+    </String>
+    <String>
+      <Id>152</Id>
+      <IdName>IDS_MsgBoxTitleInfo</IdName>
+      <Value>Core Temp: מידע</Value>
+    </String>
+    <String>
+      <Id>153</Id>
+      <IdName>IDS_MsgBoxTitleQuestion</IdName>
+      <Value>Core Temp: שאלה</Value>
+    </String>
+    <String>
+      <Id>151</Id>
+      <IdName>IDS_MsgBoxTitleWarning</IdName>
+      <Value>Core Temp: אזהרה</Value>
+    </String>
+    <String>
+      <Id>203</Id>
+      <IdName>IDS_OverheatProtectionCritical</IdName>
+      <Value>נמצאת בהתחממות  יתר!</Value>
+    </String>
+    <String>
+      <Id>189</Id>
+      <IdName>IDS_OverheatProtectionDelay</IdName>
+      <Value>האם תרצה לעכב את הפעולה ב-60 שניות?</Value>
+    </String>
+    <String>
+      <Id>187</Id>
+      <IdName>IDS_OverheatProtectionHibernate</IdName>
+      <Value>המחשב יכנס למצב תרדמת בעוד %lu שניות.</Value>
+    </String>
+    <String>
+      <Id>204</Id>
+      <IdName>IDS_OverheatProtectionHot</IdName>
+      <Value>מתחממת.</Value>
+    </String>
+    <String>
+      <Id>185</Id>
+      <IdName>IDS_OverheatProtectionOverheatDetected</IdName>
+      <Value>התגלה חימום יתר!</Value>
+    </String>
+    <String>
+      <Id>188</Id>
+      <IdName>IDS_OverheatProtectionShutDown</IdName>
+      <Value>המחשב יכבה בעוד %lu שניות.</Value>
+    </String>
+    <String>
+      <Id>186</Id>
+      <IdName>IDS_OverheatProtectionStandby</IdName>
+      <Value>המחשב יכנס למצב המתנה בעוד %lu שניות.</Value>
+    </String>
+    <String>
+      <Id>205</Id>
+      <IdName>IDS_OverheatProtectionThreshold</IdName>
+      <Value>עברה את הרף המוגדר.</Value>
+    </String>
+    <String>
+      <Id>260</Id>
+      <IdName>IDS_OverheatProtectionSuspendEventMessage</IdName>
+      <Value>המערכת הושהתה עקב התחממות. טמפרטורת המעבד חרגה מהסף הבטוח. השהייה אוטומטית כדי למנוע נזק לחומרה.</Value>
+    </String>
+    <String>
+      <Id>261</Id>
+      <IdName>IDS_OverheatProtectionHibernateEventMessage</IdName>
+      <Value>המערכת נכנסה למצב שינה עמוקה עקב התחממות. טמפרטורת המעבד חרגה מהסף הבטוח. שינה עמוקה הופעלה כדי להגן על שלמות המערכת.</Value>
+    </String>
+    <String>
+      <Id>262</Id>
+      <IdName>IDS_OverheatProtectionShutDownEventMessage</IdName>
+      <Value>המערכת כובתה עקב התחממות. טמפרטורת המעבד חרגה מהסף הבטוח. כיבוי חירום בוצע כדי למנוע נזק לחומרה.</Value>
+    </String>
+    <String>
+      <Id>182</Id>
+      <IdName>IDS_PluginErrorHandlerErrorInvalidPlugin</IdName>
+      <Value>רכיב לא תקין.</Value>
+    </String>
+    <String>
+      <Id>181</Id>
+      <IdName>IDS_PluginErrorHandlerErrorLoad</IdName>
+      <Value>לא ניתן לטעון רכיב.</Value>
+    </String>
+    <String>
+      <Id>184</Id>
+      <IdName>IDS_PluginErrorHandlerErrorNameUnknown</IdName>
+      <Value>לא ידוע</Value>
+    </String>
+    <String>
+      <Id>180</Id>
+      <IdName>IDS_PluginErrorHandlerErrorPath</IdName>
+      <Value>הנתיב לרכיב אינו נתמך או אינו נכון.</Value>
+    </String>
+    <String>
+      <Id>183</Id>
+      <IdName>IDS_PluginErrorHandlerErrorUnknown</IdName>
+      <Value>שגיאה לא ידועה.</Value>
+    </String>
+    <String>
+      <Id>176</Id>
+      <IdName>IDS_PluginErrorHandlerOnConfig</IdName>
+      <Value>התרחשה שגיאה בעת הגדרת הרכיב</Value>
+    </String>
+    <String>
+      <Id>177</Id>
+      <IdName>IDS_PluginErrorHandlerOnDeinit</IdName>
+      <Value>התרחשה שגיאה בעת כיבוי הרכיב</Value>
+    </String>
+    <String>
+      <Id>179</Id>
+      <IdName>IDS_PluginErrorHandlerOnException</IdName>
+      <Value>התרחשה שגיאה ב:</Value>
+    </String>
+    <String>
+      <Id>170</Id>
+      <IdName>IDS_PluginErrorHandlerOnInitiate</IdName>
+      <Value>התרחשה שגיאה בעת איתחול הרכיב</Value>
+    </String>
+    <String>
+      <Id>171</Id>
+      <IdName>IDS_PluginErrorHandlerOnLoad</IdName>
+      <Value>התרחשה שגיאה בעת טעינת הרכיב</Value>
+    </String>
+    <String>
+      <Id>178</Id>
+      <IdName>IDS_PluginErrorHandlerOnRemove</IdName>
+      <Value>התרחשה שגיאה בעת הסרת הרכיב</Value>
+    </String>
+    <String>
+      <Id>173</Id>
+      <IdName>IDS_PluginErrorHandlerOnStart</IdName>
+      <Value>התרחשה שגיאה בעת הפעלת הרכיב</Value>
+    </String>
+    <String>
+      <Id>174</Id>
+      <IdName>IDS_PluginErrorHandlerOnStop</IdName>
+      <Value>התרחשה שגיאה בעת סגירת הרכיב</Value>
+    </String>
+    <String>
+      <Id>172</Id>
+      <IdName>IDS_PluginErrorHandlerOnUnload</IdName>
+      <Value>התרחשה שגיאה בעת סגירת הרכיב</Value>
+    </String>
+    <String>
+      <Id>175</Id>
+      <IdName>IDS_PluginErrorHandlerOnUpdate</IdName>
+      <Value>התרחשה שגיאה בעת עדכון הרכיב</Value>
+    </String>
+    <String>
+      <Id>169</Id>
+      <IdName>IDS_PluginErrorHandlerSystemError</IdName>
+      <Value>שגיאת מערכת</Value>
+    </String>
+    <String>
+      <Id>190</Id>
+      <IdName>IDS_PluginManagerConfigurationNotImplemented</IdName>
+      <Value>הרכיב אינו מיישם קונפיגורציה כלשהי.</Value>
+    </String>
+    <String>
+      <Id>192</Id>
+      <IdName>IDS_PluginManagerConfirmRemove</IdName>
+      <Value>אימות הסרת רכיב</Value>
+    </String>
+    <String>
+      <Id>132</Id>
+      <IdName>IDS_PluginManagerDescription</IdName>
+      <Value>תיאור</Value>
+    </String>
+    <String>
+      <Id>131</Id>
+      <IdName>IDS_PluginManagerName</IdName>
+      <Value>שם</Value>
+    </String>
+    <String>
+      <Id>135</Id>
+      <IdName>IDS_PluginManagerPath</IdName>
+      <Value>נתיב</Value>
+    </String>
+    <String>
+      <Id>191</Id>
+      <IdName>IDS_PluginManagerRemovePlugin</IdName>
+      <Value>האם אתה בטוח שברצונך להסיר את הרכיב?</Value>
+    </String>
+    <String>
+      <Id>136</Id>
+      <IdName>IDS_PluginManagerStarted</IdName>
+      <Value>פועל</Value>
+    </String>
+    <String>
+      <Id>134</Id>
+      <IdName>IDS_PluginManagerStatus</IdName>
+      <Value>מצב</Value>
+    </String>
+    <String>
+      <Id>137</Id>
+      <IdName>IDS_PluginManagerStopped</IdName>
+      <Value>כבוי</Value>
+    </String>
+    <String>
+      <Id>133</Id>
+      <IdName>IDS_PluginManagerVersion</IdName>
+      <Value>גרסה</Value>
+    </String>
+    <String>
+      <Id>142</Id>
+      <IdName>IDS_SettingsDialogAdvanced</IdName>
+      <Value>מתקדם</Value>
+    </String>
+    <String>
+      <Id>200</Id>
+      <IdName>IDS_SettingsDialogAdvancedK8Unsupported</IdName>
+      <Value>אפשרות זו לא נמתמכת במעבדי AMD K8.</Value>
+    </String>
+    <String>
+      <Id>201</Id>
+      <IdName>IDS_SettingsDialogAdvancedSnmp</IdName>
+      <Value>רלוונטי בעיקר למערכות מרובות מעבדים ו\או שרתים.</Value>
+    </String>
+    <String>
+      <Id>139</Id>
+      <IdName>IDS_SettingsDialogDisplay</IdName>
+      <Value>תצוגה</Value>
+    </String>
+    <String>
+      <Id>138</Id>
+      <IdName>IDS_SettingsDialogGeneral</IdName>
+      <Value>כללי</Value>
+    </String>
+    <String>
+      <Id>140</Id>
+      <IdName>IDS_SettingsDialogSystemTray</IdName>
+      <Value>אזור ההודעות</Value>
+    </String>
+    <String>
+      <Id>145</Id>
+      <IdName>IDS_SettingsDialogSystemTrayCpu</IdName>
+      <Value>מעבד %d</Value>
+    </String>
+    <String>
+      <Id>144</Id>
+      <IdName>IDS_SettingsDialogSystemTrayCpuCore</IdName>
+      <Value>מעבד %d \ ליבה %d</Value>
+    </String>
+    <String>
+      <Id>147</Id>
+      <IdName>IDS_SettingsDialogSystemTrayFrequency</IdName>
+      <Value>תדר</Value>
+    </String>
+    <String>
+      <Id>259</Id>
+      <IdName>IDS_SettingsDialogSystemTrayEffectiveFrequency</IdName>
+      <Value>תדר אפקטיבי</Value>
+    </String>
+    <String>
+      <Id>148</Id>
+      <IdName>IDS_SettingsDialogSystemTrayLoad</IdName>
+      <Value>עומס</Value>
+    </String>
+    <String>
+      <Id>242</Id>
+      <IdName>IDS_SettingsDialogSystemTrayPower</IdName>
+      <Value>צריכה</Value>
+    </String>
+    <String>
+      <Id>241</Id>
+      <IdName>IDS_SettingsDialogSystemTrayPowerConsumption</IdName>
+      <Value>צריכת אנרגיה</Value>
+    </String>
+    <String>
+      <Id>232</Id>
+      <IdName>IDS_SettingsDialogSystemTrayRam</IdName>
+      <Value>RAM</Value>
+    </String>
+    <String>
+      <Id>146</Id>
+      <IdName>IDS_SettingsDialogSystemTrayTemperature</IdName>
+      <Value>טמפרטורה</Value>
+    </String>
+    <String>
+      <Id>243</Id>
+      <IdName>IDS_SettingsDialogSystemTrayTotalPower</IdName>
+      <Value>צריכה כללית</Value>
+    </String>
+    <String>
+      <Id>141</Id>
+      <IdName>IDS_SettingsDialogWin7Taskbar</IdName>
+      <Value>שורת המשימות של חלונות</Value>
+    </String>
+    <String>
+      <Id>155</Id>
+      <IdName>IDS_SharedMemoryAccessMappingFailed</IdName>
+      <Value>לא ניתן לגשת לאובייקט קובץ מיפוי.</Value>
+    </String>
+    <String>
+      <Id>154</Id>
+      <IdName>IDS_SharedMemoryCreateMappingFailed</IdName>
+      <Value>לא ניתן ליצור אובייקט קובץ מיפוי.</Value>
+    </String>
+    <String>
+      <Id>149</Id>
+      <IdName>IDS_SharedMemoryCreateMutexFailed</IdName>
+      <Value>לא ניתן ליצור אובייקט Mutex.</Value>
+    </String>
+    <String>
+      <Id>202</Id>
+      <IdName>IDS_SystemTrayBackground</IdName>
+      <Value>רקע</Value>
+    </String>
+    <String>
+      <Id>198</Id>
+      <IdName>IDS_SystemTrayCore</IdName>
+      <Value>ליבה</Value>
+    </String>
+    <String>
+      <Id>199</Id>
+      <IdName>IDS_SystemTrayCpu</IdName>
+      <Value>מעבד</Value>
+    </String>
+    <String>
+      <Id>206</Id>
+      <IdName>IDS_TaskbarButoonTemperature</IdName>
+      <Value>טמפרטורה</Value>
+    </String>
+    <String>
+      <Id>208</Id>
+      <IdName>IDS_TaskbarButtonClockSpeed</IdName>
+      <Value>מהירות שעון</Value>
+    </String>
+    <String>
+      <Id>207</Id>
+      <IdName>IDS_TaskbarButtonCpuLoad</IdName>
+      <Value>עומס מעבד</Value>
+    </String>
+    <String>
+      <Id>156</Id>
+      <IdName>IDS_TxtDumpFileCreateFailed</IdName>
+      <Value>לא ניתן ליצור קובץ!</Value>
+    </String>
+    <String>
+      <Id>216</Id>
+      <IdName>IDS_UnitsAmpere</IdName>
+      <Value>A</Value>
+    </String>
+    <String>
+      <Id>217</Id>
+      <IdName>IDS_Unitsbyte</IdName>
+      <Value>byte</Value>
+    </String>
+    <String>
+      <Id>218</Id>
+      <IdName>IDS_Unitsbytes</IdName>
+      <Value>Bytes</Value>
+    </String>
+    <String>
+      <Id>211</Id>
+      <IdName>IDS_UnitsGHz</IdName>
+      <Value>GHz</Value>
+    </String>
+    <String>
+      <Id>221</Id>
+      <IdName>IDS_UnitsGigabytes</IdName>
+      <Value>GiB</Value>
+    </String>
+    <String>
+      <Id>214</Id>
+      <IdName>IDS_UnitsGTs</IdName>
+      <Value>GT/s</Value>
+    </String>
+    <String>
+      <Id>219</Id>
+      <IdName>IDS_UnitsKilobytes</IdName>
+      <Value>KiB</Value>
+    </String>
+    <String>
+      <Id>220</Id>
+      <IdName>IDS_UnitsMegabytes</IdName>
+      <Value>MiB</Value>
+    </String>
+    <String>
+      <Id>210</Id>
+      <IdName>IDS_UnitsMHz</IdName>
+      <Value>MHz</Value>
+    </String>
+    <String>
+      <Id>213</Id>
+      <IdName>IDS_UnitsMTs</IdName>
+      <Value>MT/s</Value>
+    </String>
+    <String>
+      <Id>209</Id>
+      <IdName>IDS_UnitsNanometers</IdName>
+      <Value>nm</Value>
+    </String>
+    <String>
+      <Id>223</Id>
+      <IdName>IDS_UnitsPetabytes</IdName>
+      <Value>PiB</Value>
+    </String>
+    <String>
+      <Id>222</Id>
+      <IdName>IDS_UnitsTerabytes</IdName>
+      <Value>TiB</Value>
+    </String>
+    <String>
+      <Id>215</Id>
+      <IdName>IDS_UnitsVolts</IdName>
+      <Value>v</Value>
+    </String>
+    <String>
+      <Id>228</Id>
+      <IdName>IDS_UpdateDownload</IdName>
+      <Value>האם ברצונך להוריד אותה כעת?</Value>
+    </String>
+    <String>
+      <Id>230</Id>
+      <IdName>IDS_UpdateError</IdName>
+      <Value>לא ניתן לחפש עדכונים חדשים.&#10;&#13;ודא שמחשב מחובר לאינטרנט ונסה שוב.</Value>
+    </String>
+    <String>
+      <Id>225</Id>
+      <IdName>IDS_UpdateUpdateFound</IdName>
+      <Value>נמצא עדכון חדש עבור Core Temp.</Value>
+    </String>
+    <String>
+      <Id>229</Id>
+      <IdName>IDS_UpdateUpToDate</IdName>
+      <Value>אין עדכונים זמינים.</Value>
+    </String>
+    <String>
+      <Id>226</Id>
+      <IdName>IDS_UpdateVersionAvailable1</IdName>
+      <Value>גירסה %d.%d זמינה.</Value>
+    </String>
+    <String>
+      <Id>227</Id>
+      <IdName>IDS_UpdateVersionAvailable2</IdName>
+      <Value>גירסה %d.%d.%d זמינה.</Value>
+    </String>
+    <String>
+      <Id>143</Id>
+      <IdName>IDS_UserOffsetProcessorNum</IdName>
+      <Value>מעבד #%d</Value>
+    </String>
+    <String>
+      <Id>246</Id>
+      <IdName>IDS_RegisteredTo</IdName>
+      <Value>בעל רישיון:</Value>
+    </String>
+    <String>
+      <Id>251</Id>
+      <IdName>IDS_SysInfoDialogLVSensor</IdName>
+      <Value>חיישן</Value>
+    </String>
+    <String>
+      <Id>252</Id>
+      <IdName>IDS_SysInfoDialogLVValue</IdName>
+      <Value>ערך</Value>
+    </String>
+    <String>
+      <Id>253</Id>
+      <IdName>IDS_SysInfoDialogLVMinimum</IdName>
+      <Value>מינימום</Value>
+    </String>
+    <String>
+      <Id>254</Id>
+      <IdName>IDS_SysInfoDialogLVMaximum</IdName>
+      <Value>מקסימום</Value>
+    </String>
+    <String>
+      <Id>255</Id>
+      <IdName>IDS_SysInfoDialogLVAverage</IdName>
+      <Value>ממוצע</Value>
+    </String>
+    <String>
+      <Id>256</Id>
+      <IdName>IDS_SysInfoDialogLVProperty</IdName>
+      <Value>מאפיין</Value>
+    </String>
+    <String>
+      <Id>257</Id>
+      <IdName>IDS_SysInfoDialogTabSensors</IdName>
+      <Value>חיישנים</Value>
+    </String>
+    <String>
+      <Id>258</Id>
+      <IdName>IDS_SysInfoDialogTabDetails</IdName>
+      <Value>פרטים</Value>
+    </String>
+    <String>
+      <Id>263</Id>
+      <IdName>IDS_PropertyCodedname</IdName>
+      <Value>שם קוד</Value>
+    </String>
+    <String>
+      <Id>264</Id>
+      <IdName>IDS_PropertyLithography</IdName>
+      <Value>תהליך ייצור</Value>
+    </String>
+    <String>
+      <Id>265</Id>
+      <IdName>IDS_PropertyTjMax</IdName>
+      <Value>טמפרטורת צומת מרבית (TjMax)</Value>
+    </String>
+    <String>
+      <Id>266</Id>
+      <IdName>IDS_PropertyTCaseMax</IdName>
+      <Value>טמפרטורת מארז מרבית (TCaseMax)</Value>
+    </String>
+    <String>
+      <Id>267</Id>
+      <IdName>IDS_PropertyTDP</IdName>
+      <Value>הספק תרמי מתוכנן (TDP)</Value>
+    </String>
+    <String>
+      <Id>268</Id>
+      <IdName>IDS_PropertyBaseMulti</IdName>
+      <Value>מכפלת בסיס</Value>
+    </String>
+    <String>
+      <Id>269</Id>
+      <IdName>IDS_PropertyMaxMulti</IdName>
+      <Value>מכפלת טורבו</Value>
+    </String>
+    <String>
+      <Id>271</Id>
+      <IdName>IDS_SensorBclk</IdName>
+      <Value>תדר אפיק (Bclk)</Value>
+    </String>
+    <String>
+      <Id>272</Id>
+      <IdName>IDS_SensorGpu</IdName>
+      <Value>מעבד גרפי</Value>
+    </String>
+    <String>
+      <Id>273</Id>
+      <IdName>IDS_SensorSuffixVoltage</IdName>
+      <Value>מתח</Value>
+    </String>
+    <String>
+      <Id>274</Id>
+      <IdName>IDS_SensorSuffixRatioMulti</IdName>
+      <Value>מכפלה</Value>
+    </String>
+    <String>
+      <Id>270</Id>
+      <IdName>IDS_MainGuiTooltipTempPerformanceCore</IdName>
+      <Value>ליבת ביצועים</Value>
+    </String>
+    <String>
+      <Id>275</Id>
+      <IdName>IDS_MainGuiTooltipTempEfficiencyCore</IdName>
+      <Value>ליבת יעילות</Value>
+    </String>
+    <String>
+      <Id>276</Id>
+      <IdName>IDS_BatteryStatusAC</IdName>
+      <Value>רשת חשמל</Value>
+    </String>
+    <String>
+      <Id>277</Id>
+      <IdName>IDS_BatteryStatusCharging</IdName>
+      <Value>בטעינה</Value>
+    </String>
+    <String>
+      <Id>278</Id>
+      <IdName>IDS_BatteryStatusRemaining</IdName>
+      <Value>נותר</Value>
+    </String>
+    <String>
+      <Id>279</Id>
+      <IdName>IDS_BatteryStatusSaver</IdName>
+      <Value>חיסכון בסוללה</Value>
+    </String>
+    <String>
+      <Id>280</Id>
+      <IdName>IDS_BatteryStatusNotFound</IdName>
+      <Value>לא נמצאה</Value>
+    </String>
+    <String>
+      <Id>281</Id>
+      <IdName>IDS_BatteryStatus</IdName>
+      <Value>מצב הסוללה</Value>
+    </String>
+    <String>
+      <Id>282</Id>
+      <IdName>IDS_SettingsDialogSysTrayExtraIcons</IdName>
+      <Value>שונות</Value>
+    </String>
+    <String>
+      <Id>283</Id>
+      <IdName>IDS_SettingsDialogSysTrayPeakTemp</IdName>
+      <Value>טמפרטורת שיא</Value>
+    </String>
+  </Strings>
+</CoreTemp>

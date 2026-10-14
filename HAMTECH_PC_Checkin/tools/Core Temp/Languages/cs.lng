@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreTemp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>
+    <Name>Čeština</Name>
+    <Culture>cs</Culture>
+    <RightToLeft>false</RightToLeft>
+  </Language>
+  <Menus>
+    <Menu>
+      <Id>109</Id>
+      <IdName>IDC_CoreTempMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;File</OriginalText>
+          <Caption>&amp;Soubor</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Options</OriginalText>
+          <Caption>&amp;Možnosti</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Tools</OriginalText>
+          <Caption>&amp;Nástroje</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>G15 &amp;applet</OriginalText>
+          <Caption>G15 &amp;applet</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Help</OriginalText>
+          <Caption>Nápověda</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32774</Id>
+          <IdName>ID_FILE_REFRESH</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Obnovit&#9;(F5)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32773</Id>
+          <IdName>IDM_SHOWHIDE</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Zobrazit/Skrýt</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>105</Id>
+          <IdName>IDM_EXIT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Ukončit</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32772</Id>
+          <IdName>IDM_SETTINGS</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Nastavení</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32802</Id>
+          <IdName>IDM_ADJUSTOFFSETS</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Upravit ofsety</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32800</Id>
+          <IdName>IDM_OVERHEATPROTECTION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Ochrana proti přehřátí</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32779</Id>
+          <IdName>IDM_AOT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Vždy nahoře</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32797</Id>
+          <IdName>IDM_MINIMODE</IdName>
+          <OriginalText></OriginalText>
+          <Caption>Přepnout &amp;MiniMód</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32785</Id>
+          <IdName>IDM_LOGGING</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Ukládání logu&#9;(F4)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32793</Id>
+          <IdName>IDM_RESETHILO</IdName>
+          <OriginalText></OriginalText>
+          <Caption>Reset &amp;Min/Max&#9;(F6)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32813</Id>
+          <IdName>ID_TOOLS_PLUGINMANAGER</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Správce pluginů&#9;(F8)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32804</Id>
+          <IdName>IDM_SYSTEMINFORMATION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>Systémové &amp;informace&#9;(F3)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32789</Id>
+          <IdName>IDM_RUNG15APP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>Povolit G15 applet</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32790</Id>
+          <IdName>IDM_KILLG15APP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>Zakázat G15 applet</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32780</Id>
+          <IdName>ID_OPTIONS_REGISTERDUMP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Uložit haldu&#9;(F7)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32781</Id>
+          <IdName>ID_OPTIONS_SCREENSHOT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>S&amp;nímek obrazovky&#9;(F9)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>104</Id>
+          <IdName>IDM_ABOUT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;O programu ...</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32817</Id>
+          <IdName>ID_HELP_CHECKFORUPDATES</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Zkontrolovat aktualizace</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+    <Menu>
+      <Id>170</Id>
+      <IdName>IDR_Win7TaskbarColorMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Color</OriginalText>
+          <Caption>&amp;Barva</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32808</Id>
+          <IdName>ID_COLOR_GREEN</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Zelená</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32809</Id>
+          <IdName>ID_COLOR_YELLOW</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Žlutá</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32810</Id>
+          <IdName>ID_COLOR_RED</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Červená</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+    <Menu>
+      <Id>182</Id>
+      <IdName>IDR_SystrayColorMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>Color</OriginalText>
+          <Caption>Barva</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32811</Id>
+          <IdName>ID_COLOR_TRANSPARENT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Průhledné</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32812</Id>
+          <IdName>ID_COLOR_CUSTOMCOLOR</IdName>
+          <OriginalText></OriginalText>
+          <Caption>&amp;Vlastní</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+  </Menus>
+  <Dialogs>
+    <Dialog>
+      <Id>103</Id>
+      <IdName>IDD_ABOUTBOX</IdName>
+      <Caption>O programu</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1002</Id>
+          <IdName>IDC_APP_TITLE</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1120</Id>
+          <IdName>IDC_ACopyright</IdName>
+          <Text>Copyright (C) 2006 - 2026 Alcpu</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1121</Id>
+          <IdName>IDC_AAuthor</IdName>
+          <Text>Vytvořil: Arthur Liberman</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1000</Id>
+          <IdName>IDC_EMAIL</IdName>
+          <Text>Kontaktuj mě!</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1001</Id>
+          <IdName>IDC_DONATE</IdName>
+          <Text>Prosím o podporu!</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1003</Id>
+          <IdName>IDC_HOMEPAGE</IdName>
+          <Text>Navštívit domovskou stránku</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1122</Id>
+          <IdName>IDC_AThanksRay</IdName>
+          <Text>Speciální poděkování Rayovi Adamsovi za velkou pomoc při přidávání teplot do Panelu nástrojů.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1123</Id>
+          <IdName>IDC_AThanksMichael</IdName>
+          <Text>Speciální poděkování Michaelovi Charnessovi za ikonu Core Tempu.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1004</Id>
+          <IdName>IDC_FORUM</IdName>
+          <Text>Fórum podpory</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1005</Id>
+          <IdName>IDC_SCYTHE</IdName>
+          <Text>Oficiálně doporučováno Scythe.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1007</Id>
+          <IdName>IDC_FORUM2</IdName>
+          <Text>Nejčastější dotazy</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1006</Id>
+          <IdName>IDC_GADGET</IdName>
+          <Text>Vyzkoušejte Core Temp Gadget pro Windows 7 &amp;&amp; Vista.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1008</Id>
+          <IdName>IDC_TranslationCredits</IdName>
+          <Text>Přeložil: Petr Prokeš</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>158</Id>
+      <IdName>IDD_OVERHEAT</IdName>
+      <Caption>Nastavení ochrany proti přehřátí</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>Zrušit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1006</Id>
+          <IdName>IDC_ENABLE</IdName>
+          <Text>Povolit ochranu proti přehřátí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1007</Id>
+          <IdName>GRP_SETTINGS</IdName>
+          <Text>Nastavení</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1022</Id>
+          <IdName>IDC_ACTAT3</IdName>
+          <Text>Automaticky</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1020</Id>
+          <IdName>IDC_NOTIFYHOT</IdName>
+          <Text>Pouze upozornit dosažení kritické teploty</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1023</Id>
+          <IdName>IDC_ACTAT1</IdName>
+          <Text>Aktivovat při určité teplotě</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1025</Id>
+          <IdName>IDC_Celcius</IdName>
+          <Text>°</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1024</Id>
+          <IdName>IDC_ACTAT2</IdName>
+          <Text>Aktivovat, pokud je dosaženo TjMax (5° pod)</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1008</Id>
+          <IdName>IDC_BALLOON</IdName>
+          <Text>Bublinou</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1009</Id>
+          <IdName>IDC_TBFLASH</IdName>
+          <Text>Blikat Core Temp na Hlavním panelu</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1126</Id>
+          <IdName>IDC_OPExecute</IdName>
+          <Text>Spustit program:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1012</Id>
+          <IdName>IDC_BROWSE</IdName>
+          <Text>Procházet</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_OHPExecOnce</IdName>
+          <Text>Jedno spuštění</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1127</Id>
+          <IdName>IDC_OPShutdownOptions</IdName>
+          <Text>Možnosti systému:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1010</Id>
+          <IdName>IDC_ENABLESHUTDOWN</IdName>
+          <Text>Povolit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1015</Id>
+          <IdName>IDC_RADIO_SD3</IdName>
+          <Text>Režim spánku</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1016</Id>
+          <IdName>IDC_RADIO_SD4</IdName>
+          <Text>Hibernace</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1017</Id>
+          <IdName>IDC_RADIO_SD5</IdName>
+          <Text>Vypnout</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1027</Id>
+          <IdName>IDC_LBLSHUTDOWN</IdName>
+          <Text>Vypnout po</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1026</Id>
+          <IdName>IDC_LBLSECS</IdName>
+          <Text>sekundách.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1125</Id>
+          <IdName>IDC_OPNotification</IdName>
+          <Text>Upozornění:</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>159</Id>
+      <IdName>IDD_USREOFFSET</IdName>
+      <Caption>Teplotní ofsety</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>Zrušit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1132</Id>
+          <IdName>IDC_TOCpuSelect</IdName>
+          <Text>Výběr CPU</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_APPLYALL</IdName>
+          <Text>Pro všechna jádra</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1069</Id>
+          <IdName>IDC_RESET</IdName>
+          <Text>Reset</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1036</Id>
+          <IdName>IDC_CORE1</IdName>
+          <Text>Jádro 0</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1037</Id>
+          <IdName>IDC_CORE2</IdName>
+          <Text>Jádro 1</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1038</Id>
+          <IdName>IDC_CORE3</IdName>
+          <Text>Jádro 2</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1039</Id>
+          <IdName>IDC_CORE4</IdName>
+          <Text>Jádro 3</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1040</Id>
+          <IdName>IDC_CORE5</IdName>
+          <Text>Jádro 4</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1041</Id>
+          <IdName>IDC_CORE6</IdName>
+          <Text>Jádro 5</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1042</Id>
+          <IdName>IDC_CORE7</IdName>
+          <Text>Jádro 6</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1043</Id>
+          <IdName>IDC_CORE8</IdName>
+          <Text>Jádro 7</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1044</Id>
+          <IdName>IDC_CORE9</IdName>
+          <Text>Jádro 8</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1045</Id>
+          <IdName>IDC_CORE10</IdName>
+          <Text>Jádro 9</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1047</Id>
+          <IdName>IDC_CORE12</IdName>
+          <Text>Jádro 11</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1046</Id>
+          <IdName>IDC_CORE11</IdName>
+          <Text>Jádro 10</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1048</Id>
+          <IdName>IDC_CORE13</IdName>
+          <Text>Jádro 12</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1049</Id>
+          <IdName>IDC_CORE14</IdName>
+          <Text>Jádro 13</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1050</Id>
+          <IdName>IDC_CORE15</IdName>
+          <Text>Jádro 14</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1051</Id>
+          <IdName>IDC_CORE16</IdName>
+          <Text>Jádro 15</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>166</Id>
+      <IdName>IDD_SYSTEMINFO</IdName>
+      <Caption>Systémové informace Core Temp</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>Zavřít</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1055</Id>
+          <IdName>IDC_TREESYSINFO</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>ID_CANCEL</IdName>
+          <Text>Zrušit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>4</Id>
+          <IdName>ID_REFRESH</IdName>
+          <Text>Obnovit</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>169</Id>
+      <IdName>IDD_Win7Taskbar</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>Zrušit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1058</Id>
+          <IdName>IDC_W7TBEnable</IdName>
+          <Text>Povolit funkce na Hlavním panelu Windows 7</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1064</Id>
+          <IdName>IDC_W7TBFrame</IdName>
+          <Text>Nastavení</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1059</Id>
+          <IdName>IDC_W7TBTemperature</IdName>
+          <Text>Teplota</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1060</Id>
+          <IdName>IDC_W7TBFrequency</IdName>
+          <Text>Frekvence</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1061</Id>
+          <IdName>IDC_W7TBLoad</IdName>
+          <Text>Zatížení CPU</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1063</Id>
+          <IdName>IDC_W7TBMinimize</IdName>
+          <Text>Při minimalizování neskrývat tlačítko na Hlavním panelu.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_W7TBColor</IdName>
+          <Text>Barva</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1062</Id>
+          <IdName>IDC_W7TBCycle</IdName>
+          <Text>Přepínat mezi módy po</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1067</Id>
+          <IdName>IDC_W7TBSPINCycleDelay</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1133</Id>
+          <IdName>IDC_W7TBSecondsLabel</IdName>
+          <Text>sekundách.</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>176</Id>
+      <IdName>IDD_SETTINGS</IdName>
+      <Caption>Nastavení</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>Zrušit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Vše výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>6</Id>
+          <IdName>IDAPPLY</IdName>
+          <Text>Použít</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1141</Id>
+          <IdName>IDC_TAB1</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>4</Id>
+          <IdName>IDCONFIRM</IdName>
+          <Text>Potvrdit nastavení</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>177</Id>
+      <IdName>IDD_SETTINGS_GENERAL</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1097</Id>
+          <IdName>IDC_SGSepSettings</IdName>
+          <Text>Nastavení</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1134</Id>
+          <IdName>IDC_SGPollingLabel</IdName>
+          <Text>Interval načtení teploty: </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1073</Id>
+          <IdName>IDC_SGSpinPolling</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1137</Id>
+          <IdName>IDC_SGMillisecondsLabel</IdName>
+          <Text>millisekund</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1135</Id>
+          <IdName>IDC_SGLoggingLabel</IdName>
+          <Text>Interval ukládání templot do logu:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1075</Id>
+          <IdName>IDC_SGSpinLogging</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1138</Id>
+          <IdName>IDC_SGSecondsLabel</IdName>
+          <Text>sekund</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1136</Id>
+          <IdName>IDC_SGLanguageLabel</IdName>
+          <Text>Jazyk:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1080</Id>
+          <IdName>IDC_SGPlugins</IdName>
+          <Text>Povolit pluginy</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1081</Id>
+          <IdName>IDC_SGStartLogging</IdName>
+          <Text>Povolit ukládání logu po spuštění</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="true">
+          <Id>1082</Id>
+          <IdName>IDC_SGInstances</IdName>
+          <Text>Povolit spuštění více Core Tempů</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1079</Id>
+          <IdName>IDC_SGStartWindows</IdName>
+          <Text>Spustit Core Temp s Windows</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1142</Id>
+          <IdName>IDC_SGCheckUpdates</IdName>
+          <Text>Zkontrolovat aktualizace při startu</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>178</Id>
+      <IdName>IDD_SETTINGS_DISPLAY</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1076</Id>
+          <IdName>IDC_SDCheckFahrenheit</IdName>
+          <Text>Zobrazit teplotu ve Fahrenheitech</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1077</Id>
+          <IdName>IDC_SDCheckMinimized</IdName>
+          <Text>Spustit Core Temp minimalizovaný</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1078</Id>
+          <IdName>IDC_SDCheckTray</IdName>
+          <Text>Zavřít Core Temp do Panelu nástrojů</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1093</Id>
+          <IdName>IDC_SDGroupColors</IdName>
+          <Text>Nastavení barev políček</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1094</Id>
+          <IdName>IDC_SDSepSettings</IdName>
+          <Text>Nastavení</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1128</Id>
+          <IdName>IDC_DSTextLabel</IdName>
+          <Text>Hodnoty</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1129</Id>
+          <IdName>IDC_DSHotLabel</IdName>
+          <Text>Horké</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1130</Id>
+          <IdName>IDC_DSCriticalLabel</IdName>
+          <Text>Kritické</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1098</Id>
+          <IdName>IDC_SDStaticPreview1</IdName>
+          <Text>Náhled</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1099</Id>
+          <IdName>IDC_SDStaticPreview2</IdName>
+          <Text>Náhled</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1100</Id>
+          <IdName>IDC_SDStaticPreview3</IdName>
+          <Text>Náhled</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_SDBtnChange1</IdName>
+          <Text>Změnit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1066</Id>
+          <IdName>IDC_SDBtnReset1</IdName>
+          <Text>Původní</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1067</Id>
+          <IdName>IDC_SDBtnChange2</IdName>
+          <Text>Změnit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_SDBtnReset2</IdName>
+          <Text>Původní</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1069</Id>
+          <IdName>IDC_SDBtnChange3</IdName>
+          <Text>Změnit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1070</Id>
+          <IdName>IDC_SDBtnReset3</IdName>
+          <Text>Původní</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1131</Id>
+          <IdName>IDC_SDLabels</IdName>
+          <Text>Popisy</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1101</Id>
+          <IdName>IDC_SDStaticPreview4</IdName>
+          <Text>Náhled</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1071</Id>
+          <IdName>IDC_SDBtnChange4</IdName>
+          <Text>Změnit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1072</Id>
+          <IdName>IDC_SDBtnReset4</IdName>
+          <Text>Původní</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1143</Id>
+          <IdName>IDC_SDHideTaskbarButton</IdName>
+          <Text>Skrýt tlačítko z hlavního panelu</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>179</Id>
+      <IdName>IDD_SETTINGS_G15</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1089</Id>
+          <IdName>IDC_SGCheckShowTime</IdName>
+          <Text>Zobrazit datum a čas na LCD obrazovce</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1085</Id>
+          <IdName>IDC_SGRadio12Hour</IdName>
+          <Text>12 hodinový časový formát</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1086</Id>
+          <IdName>IDC_SGRadio24Hour</IdName>
+          <Text>24 hodinový časový formát</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1087</Id>
+          <IdName>IDC_SGRadioUserFont</IdName>
+          <Text>Uživatelský font</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1088</Id>
+          <IdName>IDC_SGRadioBuiltInFont</IdName>
+          <Text>Původní font</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>5</Id>
+          <IdName>IDC_SGBtnFont</IdName>
+          <Text>Vybrat font</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1092</Id>
+          <IdName>IDC_SGStaticPreview</IdName>
+          <Text>Náhled</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1095</Id>
+          <IdName>IDC_SGSepTimes</IdName>
+          <Text>Zobrazení času</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1096</Id>
+          <IdName>IDC_SGSepFonts</IdName>
+          <Text>Nastavení textu</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>-1</Id>
+          <IdName>IDC_STATIC</IdName>
+          <Text>*</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1139</Id>
+          <IdName>IDC_SGRestarted</IdName>
+          <Text>Core Temp musíte restartovat, aby se změny projevily.</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>180</Id>
+      <IdName>IDD_SETTINGS_ADVANCED</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1091</Id>
+          <IdName>IDC_SACheckTjMax</IdName>
+          <Text>V políčkách s teplotou zobrazit rozdíl od TjMax.</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1092</Id>
+          <IdName>IDC_SACheckOnFlyFsb</IdName>
+          <Text>Použít detekci FSB (vyšší požadavky).</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1096</Id>
+          <IdName>IDC_SASepSettings</IdName>
+          <Text>Nastavení</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1093</Id>
+          <IdName>IDC_SACheckSnmp</IdName>
+          <Text>Povolit globální sdílenou pměť (SNMP).</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>181</Id>
+      <IdName>IDD_SETTINGS_SYSTRAY</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>Výchozí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1099</Id>
+          <IdName>IDC_SSSepSettings</IdName>
+          <Text>Ikony</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1100</Id>
+          <IdName>IDC_SSRdoAll</IdName>
+          <Text>Všechna jádra</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1101</Id>
+          <IdName>IDC_SSRdoHighestCpu</IdName>
+          <Text>Nejvyšší teplota daného procesoru</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1102</Id>
+          <IdName>IDC_SSRdoHighest</IdName>
+          <Text>Nejvyšší teplota</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1103</Id>
+          <IdName>IDC_SSRdoIcon</IdName>
+          <Text>Pouze ikona</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1104</Id>
+          <IdName>IDC_SSCheckSpeed</IdName>
+          <Text>Frekvence procesoru</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1105</Id>
+          <IdName>IDC_SSCheckLoad</IdName>
+          <Text>Zatížení procesoru</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1108</Id>
+          <IdName>IDC_SSStaticPreview</IdName>
+          <Text>Náhled</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_SSBtnTextColor</IdName>
+          <Text>Text</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1110</Id>
+          <IdName>IDC_SSSepColors</IdName>
+          <Text>Barvy</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1066</Id>
+          <IdName>IDC_SSBtnFont</IdName>
+          <Text>Vybrat font</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1113</Id>
+          <IdName>IDC_SSBtnBackgroundColor</IdName>
+          <Text>Pozadí</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1144</Id>
+          <IdName>IDC_SSCheckRamUse</IdName>
+          <Text>Využití RAM</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>183</Id>
+      <IdName>IDD_PLUGINMANAGER</IdName>
+      <Caption>Správce pluginů</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>Zavřít</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1114</Id>
+          <IdName>IDC_PMList</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1115</Id>
+          <IdName>IDC_PMStart</IdName>
+          <Text>Spustit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1116</Id>
+          <IdName>IDC_PMStop</IdName>
+          <Text>Ukončit</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1117</Id>
+          <IdName>IDC_PMConfigure</IdName>
+          <Text>Konfigurovat</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1118</Id>
+          <IdName>IDC_PMRemove</IdName>
+          <Text>Odebrat</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1119</Id>
+          <IdName>IDC_PMEnable</IdName>
+          <Text>Povolit pluginy</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1120</Id>
+          <IdName>IDC_PMRefresh</IdName>
+          <Text>Obnovit</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+  </Dialogs>
+  <Strings>
+    <String>
+      <Id>109</Id>
+      <IdName>IDC_CoreTempMenu</IdName>
+      <Value>CORETEMP</Value>
+    </String>
+    <String>
+      <Id>103</Id>
+      <IdName>IDS_APP_TITLE</IdName>
+      <Value>Core Temp</Value>
+    </String>
+    <String>
+      <Id>224</Id>
+      <IdName>IDS_APP_TITLE_SUFFIX</IdName>
+      <Value> RC5</Value>
+    </String>
+    <String>
+      <Id>104</Id>
+      <IdName>IDS_APP_TITLE_VER</IdName>
+      <Value>Core Temp verze</Value>
+    </String>
+    <String>
+      <Id>168</Id>
+      <IdName>IDS_CoreTempMiscRegistryEntryNotFound</IdName>
+      <Value>Hodnota v registru nebyla nalezena.&#10;&#13;Položka "Spustit Core Temp s Windows" nebude uložena.</Value>
+    </String>
+    <String>
+      <Id>167</Id>
+      <IdName>IDS_CoreTempMiscScheduledTask</IdName>
+      <Value>Plánovač pro automatické spuštění Core Temp s Windows nemůže být vytvořen nebo není dostupný. Nastavení nebude uloženo.</Value>
+    </String>
+    <String>
+      <Id>162</Id>
+      <IdName>IDS_InitializeMessageDataInitFailed</IdName>
+      <Value>Inicializce interních dat Core Tempu selhala.&#10;&#13;Program nebude spuštěn.</Value>
+    </String>
+    <String>
+      <Id>161</Id>
+      <IdName>IDS_InitializeMessageDriverFailed</IdName>
+      <Value>Načtení ovladače selhalo.&#10;&#13;Program bude ukončen.</Value>
+    </String>
+    <String>
+      <Id>164</Id>
+      <IdName>IDS_InitializeMessageDriverOutdated</IdName>
+      <Value>Právě načtený ovldač je zastaralý.&#10;&#13;Ujistěte se, že není spuštěn jiný software od ALCPU a zkuste Core Temp restartovat. Core Temp bude ukončen.</Value>
+    </String>
+    <String>
+      <Id>157</Id>
+      <IdName>IDS_InitializeMessageDuplicateInstance</IdName>
+      <Value>Core Temp již běží!</Value>
+    </String>
+    <String>
+      <Id>165</Id>
+      <IdName>IDS_InitializeMessageInternalError</IdName>
+      <Value>V programu Core Temp došlo k interní chybe!&#10;&#13;Program bude ukončen.</Value>
+    </String>
+    <String>
+      <Id>166</Id>
+      <IdName>IDS_InitializeMessageOsNotSupported</IdName>
+      <Value>Tento program je možné spustit pouze na Windows 2000/XP/2003/Vista/7.&#10;&#13;Program bude ukončen.</Value>
+    </String>
+    <String>
+      <Id>163</Id>
+      <IdName>IDS_InitializeMessageProcessorNotFound</IdName>
+      <Value>Core Temp nenašel žádný podporovaný procesor.&#10;&#13;Program bude ukončen.&#10;&#13;&#10;&#13;Pokud jste si jistý, že Váš procesor je v tomto seznamu, nechte Uložit haldu (F7) a pomozte autorovi vyřešit tento problém.</Value>
+    </String>
+    <String>
+      <Id>159</Id>
+      <IdName>IDS_InitializeMessageUnsupportedCpuAmd</IdName>
+      <Value>Tento AMD procesor není podporován.&#10;&#13;Program bude ukončen.</Value>
+    </String>
+    <String>
+      <Id>160</Id>
+      <IdName>IDS_InitializeMessageUnsupportedCpuIntel</IdName>
+      <Value>Tento Intel procesor není podporován.&#10;&#13;Program bude ukončen.</Value>
+    </String>
+    <String>
+      <Id>158</Id>
+      <IdName>IDS_InitializeMessageUnsupportedVendor</IdName>
+      <Value>Procesor tohoto výrobce není podporován.&#10;&#13;Program bude ukončen.</Value>
+    </String>
+    <String>
+      <Id>124</Id>
+      <IdName>IDS_MainGuiCoreLoad</IdName>
+      <Value>Zatížení</Value>
+    </String>
+    <String>
+      <Id>129</Id>
+      <IdName>IDS_MainGuiCoreNum</IdName>
+      <Value>Jádro #%d:</Value>
+    </String>
+    <String>
+      <Id>105</Id>
+      <IdName>IDS_MainGuiCores</IdName>
+      <Value>Jádro(a)</Value>
+    </String>
+    <String>
+      <Id>108</Id>
+      <IdName>IDS_MainGuiCpuid</IdName>
+      <Value>CPUID:</Value>
+    </String>
+    <String>
+      <Id>128</Id>
+      <IdName>IDS_MainGuiCpuNum</IdName>
+      <Value>CPU #%d:</Value>
+    </String>
+    <String>
+      <Id>193</Id>
+      <IdName>IDS_MainGuiDataClockSpeed</IdName>
+      <Value>Frekvence</Value>
+    </String>
+    <String>
+      <Id>194</Id>
+      <IdName>IDS_MainGuiDataLoad</IdName>
+      <Value>Zatížení</Value>
+    </String>
+    <String>
+      <Id>196</Id>
+      <IdName>IDS_MainGuiDataShortTemperature</IdName>
+      <Value>Teplota</Value>
+    </String>
+    <String>
+      <Id>195</Id>
+      <IdName>IDS_MainGuiDataToTjMax</IdName>
+      <Value>do TjMax</Value>
+    </String>
+    <String>
+      <Id>126</Id>
+      <IdName>IDS_MainGuiFreq</IdName>
+      <Value>Frekvence #%d:</Value>
+    </String>
+    <String>
+      <Id>114</Id>
+      <IdName>IDS_MainGuiFrequency</IdName>
+      <Value>Frekvence:</Value>
+    </String>
+    <String>
+      <Id>113</Id>
+      <IdName>IDS_MainGuiLithography</IdName>
+      <Value>Litografie:</Value>
+    </String>
+    <String>
+      <Id>123</Id>
+      <IdName>IDS_MainGuiMaxTemp</IdName>
+      <Value>Max.</Value>
+    </String>
+    <String>
+      <Id>122</Id>
+      <IdName>IDS_MainGuiMinTemp</IdName>
+      <Value>Min.</Value>
+    </String>
+    <String>
+      <Id>112</Id>
+      <IdName>IDS_MainGuiModel</IdName>
+      <Value>Model:</Value>
+    </String>
+    <String>
+      <Id>120</Id>
+      <IdName>IDS_MainGuiModulation</IdName>
+      <Value>Modulace:</Value>
+    </String>
+    <String>
+      <Id>111</Id>
+      <IdName>IDS_MainGuiPlatform</IdName>
+      <Value>Platforma:</Value>
+    </String>
+    <String>
+      <Id>118</Id>
+      <IdName>IDS_MainGuiPowerDraw</IdName>
+      <Value>Napětí:</Value>
+    </String>
+    <String>
+      <Id>125</Id>
+      <IdName>IDS_MainGuiProcessorNum</IdName>
+      <Value>Procesor #%d</Value>
+    </String>
+    <String>
+      <Id>121</Id>
+      <IdName>IDS_MainGuiProcInfo</IdName>
+      <Value>Informace o procesoru</Value>
+    </String>
+    <String>
+      <Id>231</Id>
+      <IdName>IDS_MainGuiRamUsed</IdName>
+      <Value>Využití RAM</Value>
+    </String>
+    <String>
+      <Id>115</Id>
+      <IdName>IDS_MainGuiRevision</IdName>
+      <Value>Revize:</Value>
+    </String>
+    <String>
+      <Id>107</Id>
+      <IdName>IDS_MainGuiSelectCpu</IdName>
+      <Value>Výběr CPU:</Value>
+    </String>
+    <String>
+      <Id>117</Id>
+      <IdName>IDS_MainGuiTCaseMax</IdName>
+      <Value>TCase Max:</Value>
+    </String>
+    <String>
+      <Id>110</Id>
+      <IdName>IDS_MainGuiTdp</IdName>
+      <Value>TDP:</Value>
+    </String>
+    <String>
+      <Id>127</Id>
+      <IdName>IDS_MainGuiTemperatureReadings</IdName>
+      <Value>Procesor #%d: Hodnoty teplot</Value>
+    </String>
+    <String>
+      <Id>130</Id>
+      <IdName>IDS_MainGuiTemperatureReadings2</IdName>
+      <Value>Hodnoty teplot</Value>
+    </String>
+    <String>
+      <Id>106</Id>
+      <IdName>IDS_MainGuiThreads</IdName>
+      <Value>Vlákno(a)</Value>
+    </String>
+    <String>
+      <Id>116</Id>
+      <IdName>IDS_MainGuiTjMax</IdName>
+      <Value>TjMax:</Value>
+    </String>
+    <String>
+      <Id>212</Id>
+      <IdName>IDS_MainGuiTooltipEstimatedPowerConsumption</IdName>
+      <Value>Hrubý odhad současné spotřeby energie.</Value>
+    </String>
+    <String>
+      <Id>119</Id>
+      <IdName>IDS_MainGuiVid</IdName>
+      <Value>VID:</Value>
+    </String>
+    <String>
+      <Id>150</Id>
+      <IdName>IDS_MsgBoxTitleError</IdName>
+      <Value>Core Temp: Chyba</Value>
+    </String>
+    <String>
+      <Id>152</Id>
+      <IdName>IDS_MsgBoxTitleInfo</IdName>
+      <Value>Core Temp: Informace</Value>
+    </String>
+    <String>
+      <Id>153</Id>
+      <IdName>IDS_MsgBoxTitleQuestion</IdName>
+      <Value>Core Temp: Dotaz</Value>
+    </String>
+    <String>
+      <Id>151</Id>
+      <IdName>IDS_MsgBoxTitleWarning</IdName>
+      <Value>Core Temp: Varování</Value>
+    </String>
+    <String>
+      <Id>203</Id>
+      <IdName>IDS_OverheatProtectionCritical</IdName>
+      <Value>je kritický!</Value>
+    </String>
+    <String>
+      <Id>189</Id>
+      <IdName>IDS_OverheatProtectionDelay</IdName>
+      <Value>Chtěli byste odložit tuto akci o 60 sekund?&#10;&#13;</Value>
+    </String>
+    <String>
+      <Id>187</Id>
+      <IdName>IDS_OverheatProtectionHibernate</IdName>
+      <Value>Počítač bude uveden do stavu hibernace za %lu sekund.</Value>
+    </String>
+    <String>
+      <Id>204</Id>
+      <IdName>IDS_OverheatProtectionHot</IdName>
+      <Value>je horký.</Value>
+    </String>
+    <String>
+      <Id>185</Id>
+      <IdName>IDS_OverheatProtectionOverheatDetected</IdName>
+      <Value>Zjištěno přehřátí!</Value>
+    </String>
+    <String>
+      <Id>188</Id>
+      <IdName>IDS_OverheatProtectionShutDown</IdName>
+      <Value>Počítač bude vypnut za %lu sekund.</Value>
+    </String>
+    <String>
+      <Id>186</Id>
+      <IdName>IDS_OverheatProtectionStandby</IdName>
+      <Value>Počítač bude uveden do režimu spánku za %lu sekund.</Value>
+    </String>
+    <String>
+      <Id>205</Id>
+      <IdName>IDS_OverheatProtectionThreshold</IdName>
+      <Value>je nad uživatelsky stanovený limit.</Value>
+    </String>
+    <String>
+      <Id>182</Id>
+      <IdName>IDS_PluginErrorHandlerErrorInvalidPlugin</IdName>
+      <Value>Neplatný plugin.</Value>
+    </String>
+    <String>
+      <Id>181</Id>
+      <IdName>IDS_PluginErrorHandlerErrorLoad</IdName>
+      <Value>Načtení pluginu selhalo.</Value>
+    </String>
+    <String>
+      <Id>184</Id>
+      <IdName>IDS_PluginErrorHandlerErrorNameUnknown</IdName>
+      <Value>Neznámý</Value>
+    </String>
+    <String>
+      <Id>180</Id>
+      <IdName>IDS_PluginErrorHandlerErrorPath</IdName>
+      <Value>Cesta k pluginu není poskytnuta nebo není správná.</Value>
+    </String>
+    <String>
+      <Id>183</Id>
+      <IdName>IDS_PluginErrorHandlerErrorUnknown</IdName>
+      <Value>Neznámá chyba.</Value>
+    </String>
+    <String>
+      <Id>176</Id>
+      <IdName>IDS_PluginErrorHandlerOnConfig</IdName>
+      <Value>Během konfigurace pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>177</Id>
+      <IdName>IDS_PluginErrorHandlerOnDeinit</IdName>
+      <Value>Během dokončení pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>179</Id>
+      <IdName>IDS_PluginErrorHandlerOnException</IdName>
+      <Value>Nastala výjimka během</Value>
+    </String>
+    <String>
+      <Id>170</Id>
+      <IdName>IDS_PluginErrorHandlerOnInitiate</IdName>
+      <Value>Během inicializace pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>171</Id>
+      <IdName>IDS_PluginErrorHandlerOnLoad</IdName>
+      <Value>Během načítání pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>178</Id>
+      <IdName>IDS_PluginErrorHandlerOnRemove</IdName>
+      <Value>Během odebírání pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>173</Id>
+      <IdName>IDS_PluginErrorHandlerOnStart</IdName>
+      <Value>Během spuštění pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>174</Id>
+      <IdName>IDS_PluginErrorHandlerOnStop</IdName>
+      <Value>Během ukončení pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>172</Id>
+      <IdName>IDS_PluginErrorHandlerOnUnload</IdName>
+      <Value>Během odhlášení pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>175</Id>
+      <IdName>IDS_PluginErrorHandlerOnUpdate</IdName>
+      <Value>Během aktualizace pluginu nastala výjimka.</Value>
+    </String>
+    <String>
+      <Id>169</Id>
+      <IdName>IDS_PluginErrorHandlerSystemError</IdName>
+      <Value>Systémová chyba</Value>
+    </String>
+    <String>
+      <Id>190</Id>
+      <IdName>IDS_PluginManagerConfigurationNotImplemented</IdName>
+      <Value>Tento plugin neimplementoval nekteré nastavení.</Value>
+    </String>
+    <String>
+      <Id>192</Id>
+      <IdName>IDS_PluginManagerConfirmRemove</IdName>
+      <Value>Potvrzení odstranění pluginu</Value>
+    </String>
+    <String>
+      <Id>132</Id>
+      <IdName>IDS_PluginManagerDescription</IdName>
+      <Value>Popis</Value>
+    </String>
+    <String>
+      <Id>131</Id>
+      <IdName>IDS_PluginManagerName</IdName>
+      <Value>Název</Value>
+    </String>
+    <String>
+      <Id>135</Id>
+      <IdName>IDS_PluginManagerPath</IdName>
+      <Value>Cesta</Value>
+    </String>
+    <String>
+      <Id>191</Id>
+      <IdName>IDS_PluginManagerRemovePlugin</IdName>
+      <Value>Opravdu chcete odebrat tento plugin?</Value>
+    </String>
+    <String>
+      <Id>136</Id>
+      <IdName>IDS_PluginManagerStarted</IdName>
+      <Value>Spuštěn</Value>
+    </String>
+    <String>
+      <Id>134</Id>
+      <IdName>IDS_PluginManagerStatus</IdName>
+      <Value>Status</Value>
+    </String>
+    <String>
+      <Id>137</Id>
+      <IdName>IDS_PluginManagerStopped</IdName>
+      <Value>Zastaven</Value>
+    </String>
+    <String>
+      <Id>133</Id>
+      <IdName>IDS_PluginManagerVersion</IdName>
+      <Value>Verze</Value>
+    </String>
+    <String>
+      <Id>142</Id>
+      <IdName>IDS_SettingsDialogAdvanced</IdName>
+      <Value>Pokročilý</Value>
+    </String>
+    <String>
+      <Id>200</Id>
+      <IdName>IDS_SettingsDialogAdvancedK8Unsupported</IdName>
+      <Value>Tato funkce není podporovná procesory AMD K8.</Value>
+    </String>
+    <String>
+      <Id>201</Id>
+      <IdName>IDS_SettingsDialogAdvancedSnmp</IdName>
+      <Value>Relevantní většinou pro víceprocesorové a/nebo serverové systémy.</Value>
+    </String>
+    <String>
+      <Id>139</Id>
+      <IdName>IDS_SettingsDialogDisplay</IdName>
+      <Value>Zobrazení</Value>
+    </String>
+    <String>
+      <Id>138</Id>
+      <IdName>IDS_SettingsDialogGeneral</IdName>
+      <Value>Obecné</Value>
+    </String>
+    <String>
+      <Id>140</Id>
+      <IdName>IDS_SettingsDialogSystemTray</IdName>
+      <Value>Panel nástrojů</Value>
+    </String>
+    <String>
+      <Id>145</Id>
+      <IdName>IDS_SettingsDialogSystemTrayCpu</IdName>
+      <Value>CPU %d</Value>
+    </String>
+    <String>
+      <Id>144</Id>
+      <IdName>IDS_SettingsDialogSystemTrayCpuCore</IdName>
+      <Value>CPU %d / Jádro %d</Value>
+    </String>
+    <String>
+      <Id>147</Id>
+      <IdName>IDS_SettingsDialogSystemTrayFrequency</IdName>
+      <Value>Frekvence</Value>
+    </String>
+    <String>
+      <Id>148</Id>
+      <IdName>IDS_SettingsDialogSystemTrayLoad</IdName>
+      <Value>Zatížení</Value>
+    </String>
+    <String>
+      <Id>232</Id>
+      <IdName>IDS_SettingsDialogSystemTrayRam</IdName>
+      <Value>RAM</Value>
+    </String>
+    <String>
+      <Id>146</Id>
+      <IdName>IDS_SettingsDialogSystemTrayTemperature</IdName>
+      <Value>Teplota</Value>
+    </String>
+    <String>
+      <Id>141</Id>
+      <IdName>IDS_SettingsDialogWin7Taskbar</IdName>
+      <Value>Hlavní panel Windows</Value>
+    </String>
+    <String>
+      <Id>155</Id>
+      <IdName>IDS_SharedMemoryAccessMappingFailed</IdName>
+      <Value>Nelze získat přístup k objektu mapování souboru.</Value>
+    </String>
+    <String>
+      <Id>154</Id>
+      <IdName>IDS_SharedMemoryCreateMappingFailed</IdName>
+      <Value>Nelze vytvořit objekt mapování souboru.</Value>
+    </String>
+    <String>
+      <Id>149</Id>
+      <IdName>IDS_SharedMemoryCreateMutexFailed</IdName>
+      <Value>Nelze vytvořit mutex objekt.</Value>
+    </String>
+    <String>
+      <Id>202</Id>
+      <IdName>IDS_SystemTrayBackground</IdName>
+      <Value>Pozadí</Value>
+    </String>
+    <String>
+      <Id>198</Id>
+      <IdName>IDS_SystemTrayCore</IdName>
+      <Value>Jádro </Value>
+    </String>
+    <String>
+      <Id>199</Id>
+      <IdName>IDS_SystemTrayCpu</IdName>
+      <Value>Cpu</Value>
+    </String>
+    <String>
+      <Id>206</Id>
+      <IdName>IDS_TaskbarButoonTemperature</IdName>
+      <Value>Teplota</Value>
+    </String>
+    <String>
+      <Id>208</Id>
+      <IdName>IDS_TaskbarButtonClockSpeed</IdName>
+      <Value>Rychlost hodin</Value>
+    </String>
+    <String>
+      <Id>207</Id>
+      <IdName>IDS_TaskbarButtonCpuLoad</IdName>
+      <Value>Zatížení CPU</Value>
+    </String>
+    <String>
+      <Id>156</Id>
+      <IdName>IDS_TxtDumpFileCreateFailed</IdName>
+      <Value>Soubor nemohl být vytvořen!</Value>
+    </String>
+    <String>
+      <Id>216</Id>
+      <IdName>IDS_UnitsAmpere</IdName>
+      <Value>A</Value>
+    </String>
+    <String>
+      <Id>217</Id>
+      <IdName>IDS_Unitsbyte</IdName>
+      <Value>byte</Value>
+    </String>
+    <String>
+      <Id>218</Id>
+      <IdName>IDS_Unitsbytes</IdName>
+      <Value>Byty</Value>
+    </String>
+    <String>
+      <Id>211</Id>
+      <IdName>IDS_UnitsGHz</IdName>
+      <Value>GHz</Value>
+    </String>
+    <String>
+      <Id>221</Id>
+      <IdName>IDS_UnitsGigabytes</IdName>
+      <Value>GiB</Value>
+    </String>
+    <String>
+      <Id>214</Id>
+      <IdName>IDS_UnitsGTs</IdName>
+      <Value>GT/s</Value>
+    </String>
+    <String>
+      <Id>219</Id>
+      <IdName>IDS_UnitsKilobytes</IdName>
+      <Value>KiB</Value>
+    </String>
+    <String>
+      <Id>220</Id>
+      <IdName>IDS_UnitsMegabytes</IdName>
+      <Value>MiB</Value>
+    </String>
+    <String>
+      <Id>210</Id>
+      <IdName>IDS_UnitsMHz</IdName>
+      <Value>MHz</Value>
+    </String>
+    <String>
+      <Id>213</Id>
+      <IdName>IDS_UnitsMTs</IdName>
+      <Value>MT/s</Value>
+    </String>
+    <String>
+      <Id>209</Id>
+      <IdName>IDS_UnitsNanometers</IdName>
+      <Value>nm</Value>
+    </String>
+    <String>
+      <Id>223</Id>
+      <IdName>IDS_UnitsPetabytes</IdName>
+      <Value>PiB</Value>
+    </String>
+    <String>
+      <Id>222</Id>
+      <IdName>IDS_UnitsTerabytes</IdName>
+      <Value>TiB</Value>
+    </String>
+    <String>
+      <Id>215</Id>
+      <IdName>IDS_UnitsVolts</IdName>
+      <Value>v</Value>
+    </String>
+    <String>
+      <Id>197</Id>
+      <IdName>IDS_UnitsWatts</IdName>
+      <Value>Watů</Value>
+    </String>
+    <String>
+      <Id>228</Id>
+      <IdName>IDS_UpdateDownload</IdName>
+      <Value>Chcete ji nyní stáhnout?</Value>
+    </String>
+    <String>
+      <Id>230</Id>
+      <IdName>IDS_UpdateError</IdName>
+      <Value>Core Temp nemohl zkontrolovat aktualizace.&#10;&#13;Ujistěte se, že je počítač připojen k internetu a zkuste to znovu.</Value>
+    </String>
+    <String>
+      <Id>225</Id>
+      <IdName>IDS_UpdateUpdateFound</IdName>
+      <Value>Nalezena aktualizace</Value>
+    </String>
+    <String>
+      <Id>229</Id>
+      <IdName>IDS_UpdateUpToDate</IdName>
+      <Value>Core Temp je aktuální.</Value>
+    </String>
+    <String>
+      <Id>226</Id>
+      <IdName>IDS_UpdateVersionAvailable1</IdName>
+      <Value>Verze %d.%d je dostupná.</Value>
+    </String>
+    <String>
+      <Id>227</Id>
+      <IdName>IDS_UpdateVersionAvailable2</IdName>
+      <Value>Verze %d.%d.%d je dostupná.</Value>
+    </String>
+    <String>
+      <Id>143</Id>
+      <IdName>IDS_UserOffsetProcessorNum</IdName>
+      <Value>Procesor #%d</Value>
+    </String>
+    <String>
+      <Id>233</Id>
+      <IdName>IDS_CheckDriverUpdate</IdName>
+      <Value>Check for Driver Updates</Value>
+    </String>
+    <String>
+      <Id>234</Id>
+      <IdName>IDS_CheckIntelDriverUpdate</IdName>
+      <Value>Check for Intel Driver Updates</Value>
+    </String>
+    <String>
+      <Id>235</Id>
+      <IdName>IDS_CheckAmdDriverUpdate</IdName>
+      <Value>Check for AMD Driver Updates</Value>
+    </String>
+    <String>
+      <Id>247</Id>
+      <IdName>IDS_CheckBiosUpdate</IdName>
+      <Value>Check for BIOS Updates</Value>
+    </String>
+  </Strings>
+</CoreTemp>

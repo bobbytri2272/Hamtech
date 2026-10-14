@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreTemp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>
+    <Name>日本語</Name>
+    <Culture>ja-JP</Culture>
+    <RightToLeft>false</RightToLeft>
+  </Language>
+  <Menus>
+    <Menu>
+      <Id>109</Id>
+      <IdName>IDC_CoreTempMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;File</OriginalText>
+          <Caption>ファイル(&amp;F)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Options</OriginalText>
+          <Caption>オプション(&amp;O)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Tools</OriginalText>
+          <Caption>ツール(&amp;T)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>G15 &amp;applet</OriginalText>
+          <Caption>G15 アプレット(&amp;A)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Help</OriginalText>
+          <Caption>ヘルプ(&amp;H)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32774</Id>
+          <IdName>ID_FILE_REFRESH</IdName>
+          <OriginalText></OriginalText>
+          <Caption>更新(&amp;R)&#9;(F5)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32773</Id>
+          <IdName>IDM_SHOWHIDE</IdName>
+          <OriginalText></OriginalText>
+          <Caption>表示/非表示(&amp;S)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>105</Id>
+          <IdName>IDM_EXIT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>終了(&amp;X)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32772</Id>
+          <IdName>IDM_SETTINGS</IdName>
+          <OriginalText></OriginalText>
+          <Caption>設定(&amp;S)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32802</Id>
+          <IdName>IDM_ADJUSTOFFSETS</IdName>
+          <OriginalText></OriginalText>
+          <Caption>補正値の調節(&amp;D)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32800</Id>
+          <IdName>IDM_OVERHEATPROTECTION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>過熱保護(&amp;O)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32779</Id>
+          <IdName>IDM_AOT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>常に最前面に表示(&amp;A)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32797</Id>
+          <IdName>IDM_MINIMODE</IdName>
+          <OriginalText></OriginalText>
+          <Caption>ミニモードの切り替え(&amp;M)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32824</Id>
+          <IdName>IDM_CHECK_DA</IdName>
+          <OriginalText></OriginalText>
+          <Caption>ドライバーの更新確認(&amp;D)&#9;(F11)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32825</Id>
+          <IdName>IDM_CHECK_BA</IdName>
+          <OriginalText></OriginalText>
+          <Caption>BIOSの更新確認(&amp;B)&#9;(F12)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32785</Id>
+          <IdName>IDM_LOGGING</IdName>
+          <OriginalText></OriginalText>
+          <Caption>ログを残す(&amp;L)&#9;(F4)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32793</Id>
+          <IdName>IDM_RESETHILO</IdName>
+          <OriginalText></OriginalText>
+          <Caption>高/低のリセット(&amp;H)&#9;(F6)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32813</Id>
+          <IdName>ID_TOOLS_PLUGINMANAGER</IdName>
+          <OriginalText></OriginalText>
+          <Caption>プラグインマネージャー(&amp;P)&#9;(F8)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32804</Id>
+          <IdName>IDM_SYSTEMINFORMATION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>システム情報(&amp;I)&#9;(F3)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32789</Id>
+          <IdName>IDM_RUNG15APP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>G15 アプレットの有効化</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32790</Id>
+          <IdName>IDM_KILLG15APP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>G15 アプレットの無効化</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32780</Id>
+          <IdName>ID_OPTIONS_REGISTERDUMP</IdName>
+          <OriginalText></OriginalText>
+          <Caption>レジスタのダンプ(&amp;R)&#9;(F7)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32781</Id>
+          <IdName>ID_OPTIONS_SCREENSHOT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>スクリーンショット(&amp;C)&#9;(F9)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>104</Id>
+          <IdName>IDM_ABOUT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>このソフトについて(A)...</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32817</Id>
+          <IdName>ID_HELP_CHECKFORUPDATES</IdName>
+          <OriginalText></OriginalText>
+          <Caption>アップデートの確認(&amp;C)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32826</Id>
+          <IdName>ID_HELP_MAKEADONATION</IdName>
+          <OriginalText></OriginalText>
+          <Caption>寄付で活動支援(&amp;M)</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+    <Menu>
+      <Id>170</Id>
+      <IdName>IDR_Win7TaskbarColorMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>&amp;Color</OriginalText>
+          <Caption>色(&amp;C)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32808</Id>
+          <IdName>ID_COLOR_GREEN</IdName>
+          <OriginalText></OriginalText>
+          <Caption>緑(&amp;G)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32809</Id>
+          <IdName>ID_COLOR_YELLOW</IdName>
+          <OriginalText></OriginalText>
+          <Caption>黄(&amp;Y)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32810</Id>
+          <IdName>ID_COLOR_RED</IdName>
+          <OriginalText></OriginalText>
+          <Caption>赤(&amp;R)</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+    <Menu>
+      <Id>182</Id>
+      <IdName>IDR_SystrayColorMenu</IdName>
+      <SubMenus>
+        <SubMenu>
+          <Id>-1</Id>
+          <IdName></IdName>
+          <OriginalText>Color</OriginalText>
+          <Caption>色</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32811</Id>
+          <IdName>ID_COLOR_TRANSPARENT</IdName>
+          <OriginalText></OriginalText>
+          <Caption>透過(&amp;T)</Caption>
+        </SubMenu>
+        <SubMenu>
+          <Id>32812</Id>
+          <IdName>ID_COLOR_CUSTOMCOLOR</IdName>
+          <OriginalText></OriginalText>
+          <Caption>色の指定(&amp;C)</Caption>
+        </SubMenu>
+      </SubMenus>
+    </Menu>
+  </Menus>
+  <Dialogs>
+    <Dialog>
+      <Id>103</Id>
+      <IdName>IDD_ABOUTBOX</IdName>
+      <Caption>このソフトについて</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1002</Id>
+          <IdName>IDC_APP_TITLE</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1120</Id>
+          <IdName>IDC_ACopyright</IdName>
+          <Text>著作権 (C) 2006 - 2026 Alcpu</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1121</Id>
+          <IdName>IDC_AAuthor</IdName>
+          <Text>開発者: Arthur Liberman</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1000</Id>
+          <IdName>IDC_EMAIL</IdName>
+          <Text>連絡する!</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1001</Id>
+          <IdName>IDC_DONATE</IdName>
+          <Text>寄付を受け付けています</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1003</Id>
+          <IdName>IDC_HOMEPAGE</IdName>
+          <Text>ホームページを訪問</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1122</Id>
+          <IdName>IDC_AThanksRay</IdName>
+          <Text>Ray Adams に多大な感謝。システムトレイに温度取得機能をつけることを大きく手助けしてくれました。</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1123</Id>
+          <IdName>IDC_AThanksMichael</IdName>
+          <Text>Michael Charness に多大な感謝。Core Temp アイコンの作成者です。</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1124</Id>
+          <IdName>IDC_IDC_AThanksCoolIT</IdName>
+          <Text>CPUIDに多大な感謝。Windows 7とVistaで要求されるデジタル署名のあるドライバーに貢献しました。</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1004</Id>
+          <IdName>IDC_FORUM</IdName>
+          <Text>サポートフォーラム</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1005</Id>
+          <IdName>IDC_SCYTHE</IdName>
+          <Text>Scythe は公式に推奨してくださいました。</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1007</Id>
+          <IdName>IDC_FORUM2</IdName>
+          <Text>よくある質問</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1006</Id>
+          <IdName>IDC_GADGET</IdName>
+          <Text>Windows 7 &amp;&amp; Vista 用の Core Temp ガジェットを見てみる</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1008</Id>
+          <IdName>IDC_TranslationCredits</IdName>
+          <Text>翻訳: wwwcfe (most), maboroshin (update in 2020)</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>158</Id>
+      <IdName>IDD_OVERHEAT</IdName>
+      <Caption>過熱保護の設定</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>キャンセル</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1006</Id>
+          <IdName>IDC_ENABLE</IdName>
+          <Text>過熱保護を有効化</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1007</Id>
+          <IdName>GRP_SETTINGS</IdName>
+          <Text>設定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1022</Id>
+          <IdName>IDC_ACTAT3</IdName>
+          <Text>自動</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1020</Id>
+          <IdName>IDC_NOTIFYHOT</IdName>
+          <Text>限界温度に達した場合のみ通知</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1023</Id>
+          <IdName>IDC_ACTAT1</IdName>
+          <Text>指定した温度に達した場合実行</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1025</Id>
+          <IdName>IDC_Celcius</IdName>
+          <Text>°</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1024</Id>
+          <IdName>IDC_ACTAT2</IdName>
+          <Text>TjMax に達した場合に実行 (5°C 以下)</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1008</Id>
+          <IdName>IDC_BALLOON</IdName>
+          <Text>バルーン通知</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1009</Id>
+          <IdName>IDC_TBFLASH</IdName>
+          <Text>Core Temp タスクバーを点滅させる</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1126</Id>
+          <IdName>IDC_OPExecute</IdName>
+          <Text>プログラム実行:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1012</Id>
+          <IdName>IDC_BROWSE</IdName>
+          <Text>参照</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_OHPExecOnce</IdName>
+          <Text>一度のみ実行</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1127</Id>
+          <IdName>IDC_OPShutdownOptions</IdName>
+          <Text>シャットダウンのオプション:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1010</Id>
+          <IdName>IDC_ENABLESHUTDOWN</IdName>
+          <Text>有効</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1015</Id>
+          <IdName>IDC_RADIO_SD3</IdName>
+          <Text>システムをスリープ状態にする</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1016</Id>
+          <IdName>IDC_RADIO_SD4</IdName>
+          <Text>休止状態</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1017</Id>
+          <IdName>IDC_RADIO_SD5</IdName>
+          <Text>電源を切る</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1027</Id>
+          <IdName>IDC_LBLSHUTDOWN</IdName>
+          <Text>シャットダウンまで</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1026</Id>
+          <IdName>IDC_LBLSECS</IdName>
+          <Text>秒</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>既定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1125</Id>
+          <IdName>IDC_OPNotification</IdName>
+          <Text>通知:</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>159</Id>
+      <IdName>IDD_USREOFFSET</IdName>
+      <Caption>温度の補正値</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>キャンセル</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1132</Id>
+          <IdName>IDC_TOCpuSelect</IdName>
+          <Text>CPU の選択</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_APPLYALL</IdName>
+          <Text>すべてのコアに適用</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1069</Id>
+          <IdName>IDC_RESET</IdName>
+          <Text>リセット</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1036</Id>
+          <IdName>IDC_CORE1</IdName>
+          <Text>コア 0</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1037</Id>
+          <IdName>IDC_CORE2</IdName>
+          <Text>コア 1</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1038</Id>
+          <IdName>IDC_CORE3</IdName>
+          <Text>コア 2</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1039</Id>
+          <IdName>IDC_CORE4</IdName>
+          <Text>コア 3</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1040</Id>
+          <IdName>IDC_CORE5</IdName>
+          <Text>コア 4</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1041</Id>
+          <IdName>IDC_CORE6</IdName>
+          <Text>コア 5</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1042</Id>
+          <IdName>IDC_CORE7</IdName>
+          <Text>コア 6</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1043</Id>
+          <IdName>IDC_CORE8</IdName>
+          <Text>コア 7</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1044</Id>
+          <IdName>IDC_CORE9</IdName>
+          <Text>コア 8</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1045</Id>
+          <IdName>IDC_CORE10</IdName>
+          <Text>コア 9</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1047</Id>
+          <IdName>IDC_CORE12</IdName>
+          <Text>コア 11</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1046</Id>
+          <IdName>IDC_CORE11</IdName>
+          <Text>コア 10</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1048</Id>
+          <IdName>IDC_CORE13</IdName>
+          <Text>コア 12</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1049</Id>
+          <IdName>IDC_CORE14</IdName>
+          <Text>コア 13</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1050</Id>
+          <IdName>IDC_CORE15</IdName>
+          <Text>コア 14</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1051</Id>
+          <IdName>IDC_CORE16</IdName>
+          <Text>コア 15</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>166</Id>
+      <IdName>IDD_SYSTEMINFO</IdName>
+      <Caption>Core Temp システム情報</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>閉じる</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1055</Id>
+          <IdName>IDC_TREESYSINFO</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>ID_CANCEL</IdName>
+          <Text>キャンセル</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>4</Id>
+          <IdName>ID_REFRESH</IdName>
+          <Text>更新</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>169</Id>
+      <IdName>IDD_Win7Taskbar</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>キャンセル</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>既定値</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1058</Id>
+          <IdName>IDC_W7TBEnable</IdName>
+          <Text>Windows 7 のタスクバー機能を有効化</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1064</Id>
+          <IdName>IDC_W7TBFrame</IdName>
+          <Text>設定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1059</Id>
+          <IdName>IDC_W7TBTemperature</IdName>
+          <Text>温度</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1060</Id>
+          <IdName>IDC_W7TBFrequency</IdName>
+          <Text>周波数</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1061</Id>
+          <IdName>IDC_W7TBLoad</IdName>
+          <Text>CPU負荷</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1063</Id>
+          <IdName>IDC_W7TBMinimize</IdName>
+          <Text>最小化してもタスクバー上で非表示にしない</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_W7TBColor</IdName>
+          <Text>色</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1062</Id>
+          <IdName>IDC_W7TBCycle</IdName>
+          <Text>モードを循環する</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1067</Id>
+          <IdName>IDC_W7TBSPINCycleDelay</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1133</Id>
+          <IdName>IDC_W7TBSecondsLabel</IdName>
+          <Text>秒</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>176</Id>
+      <IdName>IDD_SETTINGS</IdName>
+      <Caption>設定</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>OK</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>2</Id>
+          <IdName>IDCANCEL</IdName>
+          <Text>キャンセル</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>すべて既定値に</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>6</Id>
+          <IdName>IDAPPLY</IdName>
+          <Text>適用</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1141</Id>
+          <IdName>IDC_TAB1</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>4</Id>
+          <IdName>IDCONFIRM</IdName>
+          <Text>設定の確認</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>177</Id>
+      <IdName>IDD_SETTINGS_GENERAL</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1097</Id>
+          <IdName>IDC_SGSepSettings</IdName>
+          <Text>設定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1134</Id>
+          <IdName>IDC_SGPollingLabel</IdName>
+          <Text>温度の取得間隔 </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1073</Id>
+          <IdName>IDC_SGSpinPolling</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1137</Id>
+          <IdName>IDC_SGMillisecondsLabel</IdName>
+          <Text>ミリ秒</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1135</Id>
+          <IdName>IDC_SGLoggingLabel</IdName>
+          <Text>温度のログ記録間隔 &#13;&#10;&#13;&#10;</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1075</Id>
+          <IdName>IDC_SGSpinLogging</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1138</Id>
+          <IdName>IDC_SGSecondsLabel</IdName>
+          <Text>秒</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1136</Id>
+          <IdName>IDC_SGLanguageLabel</IdName>
+          <Text>言語:</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1080</Id>
+          <IdName>IDC_SGPlugins</IdName>
+          <Text>プラグインの有効化</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1081</Id>
+          <IdName>IDC_SGStartLogging</IdName>
+          <Text>開始時にログ記録を有効化</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="true">
+          <Id>1082</Id>
+          <IdName>IDC_SGInstances</IdName>
+          <Text>Core Temp の複数起動を許可</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1079</Id>
+          <IdName>IDC_SGStartWindows</IdName>
+          <Text>Windows 起動時に Core Temp を実行</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>既定値</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1142</Id>
+          <IdName>IDC_SGCheckUpdates</IdName>
+          <Text>起動時にアップデートを確認</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>178</Id>
+      <IdName>IDD_SETTINGS_DISPLAY</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>既定値</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1076</Id>
+          <IdName>IDC_SDCheckFahrenheit</IdName>
+          <Text>温度を華氏で表示</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1077</Id>
+          <IdName>IDC_SDCheckMinimized</IdName>
+          <Text>Core Temp を最小化して開始</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1078</Id>
+          <IdName>IDC_SDCheckTray</IdName>
+          <Text>Core Temp をシステムトレイに閉じる</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1093</Id>
+          <IdName>IDC_SDGroupColors</IdName>
+          <Text>項目の色の設定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1094</Id>
+          <IdName>IDC_SDSepSettings</IdName>
+          <Text>設定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1128</Id>
+          <IdName>IDC_DSTextLabel</IdName>
+          <Text>テキスト</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1129</Id>
+          <IdName>IDC_DSHotLabel</IdName>
+          <Text>高温</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1130</Id>
+          <IdName>IDC_DSCriticalLabel</IdName>
+          <Text>致命的</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1098</Id>
+          <IdName>IDC_SDStaticPreview1</IdName>
+          <Text>プレビュー</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1099</Id>
+          <IdName>IDC_SDStaticPreview2</IdName>
+          <Text>プレビュー</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1100</Id>
+          <IdName>IDC_SDStaticPreview3</IdName>
+          <Text>プレビュー</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_SDBtnChange1</IdName>
+          <Text>変更</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1066</Id>
+          <IdName>IDC_SDBtnReset1</IdName>
+          <Text>リセット</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1067</Id>
+          <IdName>IDC_SDBtnChange2</IdName>
+          <Text>変更</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1068</Id>
+          <IdName>IDC_SDBtnReset2</IdName>
+          <Text>リセット</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1069</Id>
+          <IdName>IDC_SDBtnChange3</IdName>
+          <Text>変更</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1070</Id>
+          <IdName>IDC_SDBtnReset3</IdName>
+          <Text>リセット</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1131</Id>
+          <IdName>IDC_SDLabels</IdName>
+          <Text>ラベル</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1101</Id>
+          <IdName>IDC_SDStaticPreview4</IdName>
+          <Text>プレビュー</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1071</Id>
+          <IdName>IDC_SDBtnChange4</IdName>
+          <Text>変更</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1072</Id>
+          <IdName>IDC_SDBtnReset4</IdName>
+          <Text>リセット</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1143</Id>
+          <IdName>IDC_SDHideTaskbarButton</IdName>
+          <Text>タスクバーに表示しない</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>179</Id>
+      <IdName>IDD_SETTINGS_G15</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1089</Id>
+          <IdName>IDC_SGCheckShowTime</IdName>
+          <Text>LCD 画面に日時を表示</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1085</Id>
+          <IdName>IDC_SGRadio12Hour</IdName>
+          <Text>12 時間形式</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1086</Id>
+          <IdName>IDC_SGRadio24Hour</IdName>
+          <Text>24 時間形式</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>既定値</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1087</Id>
+          <IdName>IDC_SGRadioUserFont</IdName>
+          <Text>選択したフォント</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1088</Id>
+          <IdName>IDC_SGRadioBuiltInFont</IdName>
+          <Text>組み込みのフォントを使用</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>5</Id>
+          <IdName>IDC_SGBtnFont</IdName>
+          <Text>フォントの選択</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1092</Id>
+          <IdName>IDC_SGStaticPreview</IdName>
+          <Text> プレビュー</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1095</Id>
+          <IdName>IDC_SGSepTimes</IdName>
+          <Text>時間表示</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1096</Id>
+          <IdName>IDC_SGSepFonts</IdName>
+          <Text> 文字設定 </Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>-1</Id>
+          <IdName>IDC_STATIC</IdName>
+          <Text>*</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1139</Id>
+          <IdName>IDC_SGRestarted</IdName>
+          <Text>変更を反映するために Core Temp を再起動してください</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>180</Id>
+      <IdName>IDD_SETTINGS_ADVANCED</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>既定値</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1091</Id>
+          <IdName>IDC_SACheckTjMax</IdName>
+          <Text>TjMax までの間隔を温度欄に表示</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1092</Id>
+          <IdName>IDC_SACheckOnFlyFsb</IdName>
+          <Text>オンザ・フライ FBS 検出 (リソース使用大)</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1096</Id>
+          <IdName>IDC_SASepSettings</IdName>
+          <Text>設定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1093</Id>
+          <IdName>IDC_SACheckSnmp</IdName>
+          <Text>グローバル共有メモリを有効化 (SNMP)</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>181</Id>
+      <IdName>IDD_SETTINGS_SYSTRAY</IdName>
+      <Caption></Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>3</Id>
+          <IdName>IDDEFAULTS</IdName>
+          <Text>既定値</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1099</Id>
+          <IdName>IDC_SSSepSettings</IdName>
+          <Text>通知領域のアイコン</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1100</Id>
+          <IdName>IDC_SSRdoAll</IdName>
+          <Text>すべてのコア</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1101</Id>
+          <IdName>IDC_SSRdoHighestCpu</IdName>
+          <Text>プロセッサごとの最高温度</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1102</Id>
+          <IdName>IDC_SSRdoHighest</IdName>
+          <Text>最高温度</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1103</Id>
+          <IdName>IDC_SSRdoIcon</IdName>
+          <Text>アイコンのみ</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1104</Id>
+          <IdName>IDC_SSCheckSpeed</IdName>
+          <Text>プロセッサの周波数</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1105</Id>
+          <IdName>IDC_SSCheckLoad</IdName>
+          <Text>プロセッサの負荷</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1108</Id>
+          <IdName>IDC_SSStaticPreview</IdName>
+          <Text>プレビュー</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1065</Id>
+          <IdName>IDC_SSBtnTextColor</IdName>
+          <Text>テキスト</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1110</Id>
+          <IdName>IDC_SSSepColors</IdName>
+          <Text>色</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1066</Id>
+          <IdName>IDC_SSBtnFont</IdName>
+          <Text>フォントの選択</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1113</Id>
+          <IdName>IDC_SSBtnBackgroundColor</IdName>
+          <Text>背景</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1144</Id>
+          <IdName>IDC_SSCheckRamUse</IdName>
+          <Text>RAM使用量</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1106</Id>
+          <IdName>IDC_SSCheckPower</IdName>
+          <Text>電力消費</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+    <Dialog>
+      <Id>183</Id>
+      <IdName>IDD_PLUGINMANAGER</IdName>
+      <Caption>プラグインマネージャー</Caption>
+      <Controls>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1</Id>
+          <IdName>IDOK</IdName>
+          <Text>閉じる</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1114</Id>
+          <IdName>IDC_PMList</IdName>
+          <Text></Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1115</Id>
+          <IdName>IDC_PMStart</IdName>
+          <Text>開始</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1116</Id>
+          <IdName>IDC_PMStop</IdName>
+          <Text>停止</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1117</Id>
+          <IdName>IDC_PMConfigure</IdName>
+          <Text>設定</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1118</Id>
+          <IdName>IDC_PMRemove</IdName>
+          <Text>アンインストール</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1119</Id>
+          <IdName>IDC_PMEnable</IdName>
+          <Text>プラグインの有効化</Text>
+        </Control>
+        <Control RightAlignText="false" RightToLeft="false">
+          <Id>1120</Id>
+          <IdName>IDC_PMRefresh</IdName>
+          <Text>更新</Text>
+        </Control>
+      </Controls>
+    </Dialog>
+  </Dialogs>
+  <Strings>
+    <String>
+      <Id>109</Id>
+      <IdName>IDC_CoreTempMenu</IdName>
+      <Value>CORETEMP</Value>
+    </String>
+    <String>
+      <Id>103</Id>
+      <IdName>IDS_APP_TITLE</IdName>
+      <Value>Core Temp</Value>
+    </String>
+    <String>
+      <Id>104</Id>
+      <IdName>IDS_APP_TITLE_VER</IdName>
+      <Value>Core Temp バージョン</Value>
+    </String>
+    <String>
+      <Id>168</Id>
+      <IdName>IDS_CoreTempMiscRegistryEntryNotFound</IdName>
+      <Value>レジストリのエントリが見つかりません。&#13;&#10;「Windows 起動時に Core Temp を実行」のオプションは保存されません。</Value>
+    </String>
+    <String>
+      <Id>167</Id>
+      <IdName>IDS_CoreTempMiscScheduledTask</IdName>
+      <Value>Windows 起動時に Core Temp を自動的に実行するタスクスケジュールは、作成されていないか、アクセスできないため保存されません。</Value>
+    </String>
+    <String>
+      <Id>244</Id>
+      <IdName>IDS_FrequencySelectorHighest</IdName>
+      <Value>最高のもの</Value>
+    </String>
+    <String>
+      <Id>245</Id>
+      <IdName>IDS_FrequencySelectorTooltip</IdName>
+      <Value>右クリックで特定のコアの周波数を選択できます</Value>
+    </String>
+    <String>
+      <Id>162</Id>
+      <IdName>IDS_InitializeMessageDataInitFailed</IdName>
+      <Value>Core Temp は内部データの初期化に失敗しました。&#13;&#10;このプログラムは続行できません。</Value>
+    </String>
+    <String>
+      <Id>161</Id>
+      <IdName>IDS_InitializeMessageDriverFailed</IdName>
+      <Value>ドライバの読み込みに失敗しました。&#13;&#10;このプログラムは続行できません。</Value>
+    </String>
+    <String>
+      <Id>164</Id>
+      <IdName>IDS_InitializeMessageDriverOutdated</IdName>
+      <Value>古いドライバが読み込まれました。&#13;&#10;ALCPU 製の別のプログラムを利用していないかを確認して Core Temp を再起動してください。&#13;&#10;Core Temp は続行できません。</Value>
+    </String>
+    <String>
+      <Id>157</Id>
+      <IdName>IDS_InitializeMessageDuplicateInstance</IdName>
+      <Value>Core Temp の別のインスタンスが起動しています!</Value>
+    </String>
+    <String>
+      <Id>165</Id>
+      <IdName>IDS_InitializeMessageInternalError</IdName>
+      <Value>Core Temp の内部エラーが発生しました!&#13;&#10;このプログラムは続行できません。</Value>
+    </String>
+    <String>
+      <Id>166</Id>
+      <IdName>IDS_InitializeMessageOsNotSupported</IdName>
+      <Value>このプログラムの実行には Windows 2000/XP/2003/Vista/7 が必要です。&#13;&#10;このプログラムは続行できません。</Value>
+    </String>
+    <String>
+      <Id>163</Id>
+      <IdName>IDS_InitializeMessageProcessorNotFound</IdName>
+      <Value>Core Temp が対応しているプロセッサが見つかりません。&#13;&#10;このプログラムは続行できません。&#13;&#10;&#13;&#10;ご利用の CPU が対応プロセッサ一覧に含まれる場合は、この問題を解決するためにレジス タダンプをを作成して開発者に送信してください。</Value>
+    </String>
+    <String>
+      <Id>159</Id>
+      <IdName>IDS_InitializeMessageUnsupportedCpuAmd</IdName>
+      <Value>この AMD プロセッサには対応していません。&#13;&#10;このプログラムは続行できません。</Value>
+    </String>
+    <String>
+      <Id>160</Id>
+      <IdName>IDS_InitializeMessageUnsupportedCpuIntel</IdName>
+      <Value>この Intel プロセッサには対応していません。&#13;&#10;このプログラムは続行できません。</Value>
+    </String>
+    <String>
+      <Id>158</Id>
+      <IdName>IDS_InitializeMessageUnsupportedVendor</IdName>
+      <Value>この製造元のプロセッサには対応していません。&#10;&#13;このプログラムは続行できません。</Value>
+    </String>
+    <String>
+      <Id>124</Id>
+      <IdName>IDS_MainGuiCoreLoad</IdName>
+      <Value>負荷</Value>
+    </String>
+    <String>
+      <Id>129</Id>
+      <IdName>IDS_MainGuiCoreNum</IdName>
+      <Value>コア #%d:</Value>
+    </String>
+    <String>
+      <Id>105</Id>
+      <IdName>IDS_MainGuiCores</IdName>
+      <Value>コア</Value>
+    </String>
+    <String>
+      <Id>108</Id>
+      <IdName>IDS_MainGuiCpuid</IdName>
+      <Value>CPUID:</Value>
+    </String>
+    <String>
+      <Id>128</Id>
+      <IdName>IDS_MainGuiCpuNum</IdName>
+      <Value>CPU #%d:</Value>
+    </String>
+    <String>
+      <Id>193</Id>
+      <IdName>IDS_MainGuiDataClockSpeed</IdName>
+      <Value>クロック</Value>
+    </String>
+    <String>
+      <Id>194</Id>
+      <IdName>IDS_MainGuiDataLoad</IdName>
+      <Value>負荷</Value>
+    </String>
+    <String>
+      <Id>196</Id>
+      <IdName>IDS_MainGuiDataShortTemperature</IdName>
+      <Value>温度</Value>
+    </String>
+    <String>
+      <Id>195</Id>
+      <IdName>IDS_MainGuiDataToTjMax</IdName>
+      <Value>to TjMax</Value>
+    </String>
+    <String>
+      <Id>126</Id>
+      <IdName>IDS_MainGuiFreq</IdName>
+      <Value>周波数 #%d:</Value>
+    </String>
+    <String>
+      <Id>114</Id>
+      <IdName>IDS_MainGuiFrequency</IdName>
+      <Value>周波数:</Value>
+    </String>
+    <String>
+      <Id>113</Id>
+      <IdName>IDS_MainGuiLithography</IdName>
+      <Value>製造プロセス:</Value>
+    </String>
+    <String>
+      <Id>123</Id>
+      <IdName>IDS_MainGuiMaxTemp</IdName>
+      <Value>最大</Value>
+    </String>
+    <String>
+      <Id>122</Id>
+      <IdName>IDS_MainGuiMinTemp</IdName>
+      <Value>最小</Value>
+    </String>
+    <String>
+      <Id>112</Id>
+      <IdName>IDS_MainGuiModel</IdName>
+      <Value>モデル:</Value>
+    </String>
+    <String>
+      <Id>120</Id>
+      <IdName>IDS_MainGuiModulation</IdName>
+      <Value>調整:</Value>
+    </String>
+    <String>
+      <Id>111</Id>
+      <IdName>IDS_MainGuiPlatform</IdName>
+      <Value>ソケット:</Value>
+    </String>
+    <String>
+      <Id>118</Id>
+      <IdName>IDS_MainGuiPowerDraw</IdName>
+      <Value>電力:</Value>
+    </String>
+    <String>
+      <Id>125</Id>
+      <IdName>IDS_MainGuiProcessorNum</IdName>
+      <Value>プロセッサ #%d</Value>
+    </String>
+    <String>
+      <Id>121</Id>
+      <IdName>IDS_MainGuiProcInfo</IdName>
+      <Value>プロセッサ情報</Value>
+    </String>
+    <String>
+      <Id>231</Id>
+      <IdName>IDS_MainGuiRamUsed</IdName>
+      <Value>RAM使用</Value>
+    </String>
+    <String>
+      <Id>115</Id>
+      <IdName>IDS_MainGuiRevision</IdName>
+      <Value>リビジョン</Value>
+    </String>
+    <String>
+      <Id>107</Id>
+      <IdName>IDS_MainGuiSelectCpu</IdName>
+      <Value>CPU の選択</Value>
+    </String>
+    <String>
+      <Id>117</Id>
+      <IdName>IDS_MainGuiTCaseMax</IdName>
+      <Value>TCase Max:</Value>
+    </String>
+    <String>
+      <Id>110</Id>
+      <IdName>IDS_MainGuiTdp</IdName>
+      <Value>TDP:</Value>
+    </String>
+    <String>
+      <Id>127</Id>
+      <IdName>IDS_MainGuiTemperatureReadings</IdName>
+      <Value>プロセッサ #%d: 温度の読み取り</Value>
+    </String>
+    <String>
+      <Id>130</Id>
+      <IdName>IDS_MainGuiTemperatureReadings2</IdName>
+      <Value>温度の読み取り</Value>
+    </String>
+    <String>
+      <Id>106</Id>
+      <IdName>IDS_MainGuiThreads</IdName>
+      <Value>スレッド</Value>
+    </String>
+    <String>
+      <Id>116</Id>
+      <IdName>IDS_MainGuiTjMax</IdName>
+      <Value>Tj. Max:</Value>
+    </String>
+    <String>
+      <Id>212</Id>
+      <IdName>IDS_MainGuiTooltipEstimatedPowerConsumption</IdName>
+      <Value>現在の消費電力の概算</Value>
+    </String>
+    <String>
+      <Id>240</Id>
+      <IdName>IDS_MainGuiTooltipPowerDRAM</IdName>
+      <Value>DRAM</Value>
+    </String>
+    <String>
+      <Id>238</Id>
+      <IdName>IDS_MainGuiTooltipPowerGT</IdName>
+      <Value>GT (グラフィックコア)</Value>
+    </String>
+    <String>
+      <Id>237</Id>
+      <IdName>IDS_MainGuiTooltipPowerIACores</IdName>
+      <Value>IA コア</Value>
+    </String>
+    <String>
+      <Id>236</Id>
+      <IdName>IDS_MainGuiTooltipPowerPackage</IdName>
+      <Value>パッケージ</Value>
+    </String>
+    <String>
+      <Id>239</Id>
+      <IdName>IDS_MainGuiTooltipPowerUncore</IdName>
+      <Value>アンコア (推定)</Value>
+    </String>
+    <String>
+      <Id>119</Id>
+      <IdName>IDS_MainGuiVid</IdName>
+      <Value>VID:</Value>
+    </String>
+    <String>
+      <Id>150</Id>
+      <IdName>IDS_MsgBoxTitleError</IdName>
+      <Value>Core Temp: エラー</Value>
+    </String>
+    <String>
+      <Id>152</Id>
+      <IdName>IDS_MsgBoxTitleInfo</IdName>
+      <Value>Core Temp: 情報</Value>
+    </String>
+    <String>
+      <Id>153</Id>
+      <IdName>IDS_MsgBoxTitleQuestion</IdName>
+      <Value>Core Temp: 確認</Value>
+    </String>
+    <String>
+      <Id>151</Id>
+      <IdName>IDS_MsgBoxTitleWarning</IdName>
+      <Value>Core Temp: 警告</Value>
+    </String>
+    <String>
+      <Id>203</Id>
+      <IdName>IDS_OverheatProtectionCritical</IdName>
+      <Value>は致命的です!</Value>
+    </String>
+    <String>
+      <Id>189</Id>
+      <IdName>IDS_OverheatProtectionDelay</IdName>
+      <Value>この動作を 60 秒遅らせますか?</Value>
+    </String>
+    <String>
+      <Id>187</Id>
+      <IdName>IDS_OverheatProtectionHibernate</IdName>
+      <Value>コンピュータは %lu 秒で休止状態になります。</Value>
+    </String>
+    <String>
+      <Id>204</Id>
+      <IdName>IDS_OverheatProtectionHot</IdName>
+      <Value>は高温です。</Value>
+    </String>
+    <String>
+      <Id>185</Id>
+      <IdName>IDS_OverheatProtectionOverheatDetected</IdName>
+      <Value>過熱を検出しました!</Value>
+    </String>
+    <String>
+      <Id>188</Id>
+      <IdName>IDS_OverheatProtectionShutDown</IdName>
+      <Value>コンピュータは %lu 秒でシャットダウンします。</Value>
+    </String>
+    <String>
+      <Id>186</Id>
+      <IdName>IDS_OverheatProtectionStandby</IdName>
+      <Value>コンピュータは %lu 秒でスタンバイ状態になります。</Value>
+    </String>
+    <String>
+      <Id>205</Id>
+      <IdName>IDS_OverheatProtectionThreshold</IdName>
+      <Value>はユーザー指定の閾値まで達しました</Value>
+    </String>
+    <String>
+      <Id>182</Id>
+      <IdName>IDS_PluginErrorHandlerErrorInvalidPlugin</IdName>
+      <Value>無効なプラグインです。</Value>
+    </String>
+    <String>
+      <Id>181</Id>
+      <IdName>IDS_PluginErrorHandlerErrorLoad</IdName>
+      <Value>プラグインを読み込めません。</Value>
+    </String>
+    <String>
+      <Id>184</Id>
+      <IdName>IDS_PluginErrorHandlerErrorNameUnknown</IdName>
+      <Value>不明</Value>
+    </String>
+    <String>
+      <Id>180</Id>
+      <IdName>IDS_PluginErrorHandlerErrorPath</IdName>
+      <Value>プラグインのパスが指定されていないか間違っています。</Value>
+    </String>
+    <String>
+      <Id>183</Id>
+      <IdName>IDS_PluginErrorHandlerErrorUnknown</IdName>
+      <Value>不明なエラー。</Value>
+    </String>
+    <String>
+      <Id>176</Id>
+      <IdName>IDS_PluginErrorHandlerOnConfig</IdName>
+      <Value>プラグインの更生中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>177</Id>
+      <IdName>IDS_PluginErrorHandlerOnDeinit</IdName>
+      <Value>プラグインのファイナライズ中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>179</Id>
+      <IdName>IDS_PluginErrorHandlerOnException</IdName>
+      <Value>例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>170</Id>
+      <IdName>IDS_PluginErrorHandlerOnInitiate</IdName>
+      <Value>プラグインの初期化中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>171</Id>
+      <IdName>IDS_PluginErrorHandlerOnLoad</IdName>
+      <Value>プラグインの読み込み中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>178</Id>
+      <IdName>IDS_PluginErrorHandlerOnRemove</IdName>
+      <Value>プラグインの削除中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>173</Id>
+      <IdName>IDS_PluginErrorHandlerOnStart</IdName>
+      <Value>プラグインの開始中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>174</Id>
+      <IdName>IDS_PluginErrorHandlerOnStop</IdName>
+      <Value>プラグインの停止中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>172</Id>
+      <IdName>IDS_PluginErrorHandlerOnUnload</IdName>
+      <Value>プラグインのアンロード中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>175</Id>
+      <IdName>IDS_PluginErrorHandlerOnUpdate</IdName>
+      <Value>プラグインの更新中に例外が発生しました</Value>
+    </String>
+    <String>
+      <Id>169</Id>
+      <IdName>IDS_PluginErrorHandlerSystemError</IdName>
+      <Value>システムエラー</Value>
+    </String>
+    <String>
+      <Id>190</Id>
+      <IdName>IDS_PluginManagerConfigurationNotImplemented</IdName>
+      <Value>このプラグインは構成オプションを実装していません。</Value>
+    </String>
+    <String>
+      <Id>192</Id>
+      <IdName>IDS_PluginManagerConfirmRemove</IdName>
+      <Value>プラグイン削除の確認</Value>
+    </String>
+    <String>
+      <Id>132</Id>
+      <IdName>IDS_PluginManagerDescription</IdName>
+      <Value>説明</Value>
+    </String>
+    <String>
+      <Id>131</Id>
+      <IdName>IDS_PluginManagerName</IdName>
+      <Value>名前</Value>
+    </String>
+    <String>
+      <Id>135</Id>
+      <IdName>IDS_PluginManagerPath</IdName>
+      <Value>パス</Value>
+    </String>
+    <String>
+      <Id>191</Id>
+      <IdName>IDS_PluginManagerRemovePlugin</IdName>
+      <Value>本当にこのプラグインを削除してもよろしいですか?</Value>
+    </String>
+    <String>
+      <Id>136</Id>
+      <IdName>IDS_PluginManagerStarted</IdName>
+      <Value>開始</Value>
+    </String>
+    <String>
+      <Id>134</Id>
+      <IdName>IDS_PluginManagerStatus</IdName>
+      <Value>状態</Value>
+    </String>
+    <String>
+      <Id>137</Id>
+      <IdName>IDS_PluginManagerStopped</IdName>
+      <Value>停止中</Value>
+    </String>
+    <String>
+      <Id>133</Id>
+      <IdName>IDS_PluginManagerVersion</IdName>
+      <Value>バージョン</Value>
+    </String>
+    <String>
+      <Id>142</Id>
+      <IdName>IDS_SettingsDialogAdvanced</IdName>
+      <Value>その他</Value>
+    </String>
+    <String>
+      <Id>200</Id>
+      <IdName>IDS_SettingsDialogAdvancedK8Unsupported</IdName>
+      <Value>この機能は AMD K8 ベースのプロセッサに対応していません。</Value>
+    </String>
+    <String>
+      <Id>201</Id>
+      <IdName>IDS_SettingsDialogAdvancedSnmp</IdName>
+      <Value>多くはマルチプロセッサまたはサーバーシステムに関連します。</Value>
+    </String>
+    <String>
+      <Id>139</Id>
+      <IdName>IDS_SettingsDialogDisplay</IdName>
+      <Value>表示</Value>
+    </String>
+    <String>
+      <Id>138</Id>
+      <IdName>IDS_SettingsDialogGeneral</IdName>
+      <Value>全般</Value>
+    </String>
+    <String>
+      <Id>140</Id>
+      <IdName>IDS_SettingsDialogSystemTray</IdName>
+      <Value>通知領域</Value>
+    </String>
+    <String>
+      <Id>145</Id>
+      <IdName>IDS_SettingsDialogSystemTrayCpu</IdName>
+      <Value>CPU %d</Value>
+    </String>
+    <String>
+      <Id>144</Id>
+      <IdName>IDS_SettingsDialogSystemTrayCpuCore</IdName>
+      <Value>CPU %d / コア %d</Value>
+    </String>
+    <String>
+      <Id>147</Id>
+      <IdName>IDS_SettingsDialogSystemTrayFrequency</IdName>
+      <Value>周波数</Value>
+    </String>
+    <String>
+      <Id>148</Id>
+      <IdName>IDS_SettingsDialogSystemTrayLoad</IdName>
+      <Value>負荷</Value>
+    </String>
+    <String>
+      <Id>242</Id>
+      <IdName>IDS_SettingsDialogSystemTrayPower</IdName>
+      <Value>電力</Value>
+    </String>
+    <String>
+      <Id>241</Id>
+      <IdName>IDS_SettingsDialogSystemTrayPowerConsumption</IdName>
+      <Value>電力消費</Value>
+    </String>
+    <String>
+      <Id>232</Id>
+      <IdName>IDS_SettingsDialogSystemTrayRam</IdName>
+      <Value>RAM</Value>
+    </String>
+    <String>
+      <Id>146</Id>
+      <IdName>IDS_SettingsDialogSystemTrayTemperature</IdName>
+      <Value>温度</Value>
+    </String>
+    <String>
+      <Id>243</Id>
+      <IdName>IDS_SettingsDialogSystemTrayTotalPower</IdName>
+      <Value>総電力</Value>
+    </String>
+    <String>
+      <Id>141</Id>
+      <IdName>IDS_SettingsDialogWin7Taskbar</IdName>
+      <Value>Windows タスクバー</Value>
+    </String>
+    <String>
+      <Id>155</Id>
+      <IdName>IDS_SharedMemoryAccessMappingFailed</IdName>
+      <Value>ファイル マップ オブジェクトにアクセスできません。</Value>
+    </String>
+    <String>
+      <Id>154</Id>
+      <IdName>IDS_SharedMemoryCreateMappingFailed</IdName>
+      <Value>ファイル マップ オブジェクトを作成できません。</Value>
+    </String>
+    <String>
+      <Id>149</Id>
+      <IdName>IDS_SharedMemoryCreateMutexFailed</IdName>
+      <Value>相互排除オブジェクトを作成できません。</Value>
+    </String>
+    <String>
+      <Id>202</Id>
+      <IdName>IDS_SystemTrayBackground</IdName>
+      <Value>背景</Value>
+    </String>
+    <String>
+      <Id>198</Id>
+      <IdName>IDS_SystemTrayCore</IdName>
+      <Value>コア</Value>
+    </String>
+    <String>
+      <Id>199</Id>
+      <IdName>IDS_SystemTrayCpu</IdName>
+      <Value>CPU</Value>
+    </String>
+    <String>
+      <Id>206</Id>
+      <IdName>IDS_TaskbarButoonTemperature</IdName>
+      <Value>温度</Value>
+    </String>
+    <String>
+      <Id>208</Id>
+      <IdName>IDS_TaskbarButtonClockSpeed</IdName>
+      <Value>クロック速度</Value>
+    </String>
+    <String>
+      <Id>207</Id>
+      <IdName>IDS_TaskbarButtonCpuLoad</IdName>
+      <Value>CPU 負荷</Value>
+    </String>
+    <String>
+      <Id>156</Id>
+      <IdName>IDS_TxtDumpFileCreateFailed</IdName>
+      <Value>ファイルを作成できませんでした!</Value>
+    </String>
+    <String>
+      <Id>216</Id>
+      <IdName>IDS_UnitsAmpere</IdName>
+      <Value>A</Value>
+    </String>
+    <String>
+      <Id>217</Id>
+      <IdName>IDS_Unitsbyte</IdName>
+      <Value>バイト</Value>
+    </String>
+    <String>
+      <Id>218</Id>
+      <IdName>IDS_Unitsbytes</IdName>
+      <Value>バイト</Value>
+    </String>
+    <String>
+      <Id>211</Id>
+      <IdName>IDS_UnitsGHz</IdName>
+      <Value>GHz</Value>
+    </String>
+    <String>
+      <Id>221</Id>
+      <IdName>IDS_UnitsGigabytes</IdName>
+      <Value>GiB</Value>
+    </String>
+    <String>
+      <Id>214</Id>
+      <IdName>IDS_UnitsGTs</IdName>
+      <Value>GT/s</Value>
+    </String>
+    <String>
+      <Id>219</Id>
+      <IdName>IDS_UnitsKilobytes</IdName>
+      <Value>KiB</Value>
+    </String>
+    <String>
+      <Id>220</Id>
+      <IdName>IDS_UnitsMegabytes</IdName>
+      <Value>MiB</Value>
+    </String>
+    <String>
+      <Id>210</Id>
+      <IdName>IDS_UnitsMHz</IdName>
+      <Value>MHz</Value>
+    </String>
+    <String>
+      <Id>213</Id>
+      <IdName>IDS_UnitsMTs</IdName>
+      <Value>MT/s</Value>
+    </String>
+    <String>
+      <Id>209</Id>
+      <IdName>IDS_UnitsNanometers</IdName>
+      <Value>nm</Value>
+    </String>
+    <String>
+      <Id>223</Id>
+      <IdName>IDS_UnitsPetabytes</IdName>
+      <Value>PiB</Value>
+    </String>
+    <String>
+      <Id>222</Id>
+      <IdName>IDS_UnitsTerabytes</IdName>
+      <Value>TiB</Value>
+    </String>
+    <String>
+      <Id>215</Id>
+      <IdName>IDS_UnitsVolts</IdName>
+      <Value>v</Value>
+    </String>
+    <String>
+      <Id>197</Id>
+      <IdName>IDS_UnitsWatts</IdName>
+      <Value>ワット</Value>
+    </String>
+    <String>
+      <Id>143</Id>
+      <IdName>IDS_UserOffsetProcessorNum</IdName>
+      <Value>プロセッサ #%d</Value>
+    </String>
+    <String>
+      <Id>233</Id>
+      <IdName>IDS_CheckDriverUpdate</IdName>
+      <Value>ドライバーの更新確認</Value>
+    </String>
+    <String>
+      <Id>234</Id>
+      <IdName>IDS_CheckIntelDriverUpdate</IdName>
+      <Value>Intel ドライバーの更新確認</Value>
+    </String>
+    <String>
+      <Id>235</Id>
+      <IdName>IDS_CheckAmdDriverUpdate</IdName>
+      <Value>AMD ドライバーの更新確認</Value>
+    </String>
+    <String>
+      <Id>228</Id>
+      <IdName>IDS_UpdateDownload</IdName>
+      <Value>今すぐダウンロードしますか?</Value>
+    </String>
+    <String>
+      <Id>230</Id>
+      <IdName>IDS_UpdateError</IdName>
+      <Value>Core Temp は更新を確認できませんでした。&#13;&#10;インターネット接続を確認しもう一度お試しください。</Value>
+    </String>
+    <String>
+      <Id>225</Id>
+      <IdName>IDS_UpdateUpdateFound</IdName>
+      <Value>Core Temp の新しいバージョンがあります。</Value>
+    </String>
+    <String>
+      <Id>229</Id>
+      <IdName>IDS_UpdateUpToDate</IdName>
+      <Value>最新版の Core Temp をお使いです。</Value>
+    </String>
+    <String>
+      <Id>226</Id>
+      <IdName>IDS_UpdateVersionAvailable1</IdName>
+      <Value>バージョン %d.%d が利用できます。</Value>
+    </String>
+    <String>
+      <Id>227</Id>
+      <IdName>IDS_UpdateVersionAvailable2</IdName>
+      <Value>バージョン %d.%d.%d が利用できます。</Value>
+    </String>
+  </Strings>
+</CoreTemp>
